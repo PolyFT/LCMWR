@@ -1,0 +1,19 @@
+{
+  "n_samples": 7174,
+  "n_successful_models": 11,
+  "models": [
+    "MLP",
+    "SVR/SVM",
+    "Ridge",
+    "Lasso",
+    "KNN",
+    "DecisionTree",
+    "LightGBM",
+    "GradientBoosting",
+    "RandomForest",
+    "ExtraTrees",
+    "XGBoost"
+  ],
+  "all_models_complete": true,
+  "output_file": "results/model_compare/Tg_GREA/cv_predictions_with_source_ids.csv"
+}

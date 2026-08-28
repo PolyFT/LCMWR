@@ -1,0 +1,22 @@
+{
+  "cache_version": "weighted_feature_matrix_v4_hierarchical_composition",
+  "task": "loi",
+  "target": "LOI",
+  "matching_version": "fragment_smiles_query_v2",
+  "blend_rule_version": "hierarchical_mole_internal_mass_blend_v1",
+  "molecular_weight_method": "RDKit.Chem.rdMolDescriptors.CalcExactMolWt",
+  "rdkit_version": "2022.09.5",
+  "feature_filter_version": "drop_all_zero_v5_smiles_query",
+  "vocab_hash": "7d479e258a4c",
+  "scientific_data_hash": "db1f0010b50a",
+  "data_hash": "38ff50b4d6fd",
+  "source_metadata_hash": "099646046873",
+  "cache_file": "results/loi_motif_select/loi_vocab_weighted_v9.pkl",
+  "feature_matrix_shape": [
+    948,
+    5535
+  ],
+  "feature_count": 5535,
+  "sample_count": 948,
+  "loaded_from_validated_v9_cache": true
+}

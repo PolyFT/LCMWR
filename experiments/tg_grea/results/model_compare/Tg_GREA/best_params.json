@@ -1,0 +1,764 @@
+{
+  "MLP": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__regressor__learning_rate_init": 0.001,
+      "model__regressor__hidden_layer_sizes": [
+        128,
+        64
+      ],
+      "model__regressor__alpha": 0.0001
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__regressor__learning_rate_init": 0.001,
+          "model__regressor__hidden_layer_sizes": [
+            128,
+            64
+          ],
+          "model__regressor__alpha": 0.0001
+        },
+        "best_score_inner_cv": 0.8171214661355526,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__regressor__learning_rate_init": 0.001,
+          "model__regressor__hidden_layer_sizes": [
+            128,
+            64
+          ],
+          "model__regressor__alpha": 0.0001
+        },
+        "best_score_inner_cv": 0.8276319100968982,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__regressor__learning_rate_init": 0.001,
+          "model__regressor__hidden_layer_sizes": [
+            128,
+            64
+          ],
+          "model__regressor__alpha": 1e-05
+        },
+        "best_score_inner_cv": 0.8121035049255245,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__regressor__learning_rate_init": 0.001,
+          "model__regressor__hidden_layer_sizes": [
+            128,
+            64
+          ],
+          "model__regressor__alpha": 0.0001
+        },
+        "best_score_inner_cv": 0.8294120372878383,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__regressor__learning_rate_init": 0.001,
+          "model__regressor__hidden_layer_sizes": [
+            128,
+            64
+          ],
+          "model__regressor__alpha": 1e-05
+        },
+        "best_score_inner_cv": 0.8147501381870065,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "SVR/SVM": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__kernel": "rbf",
+      "model__gamma": "scale",
+      "model__epsilon": 0.2,
+      "model__C": 100
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__kernel": "rbf",
+          "model__gamma": "scale",
+          "model__epsilon": 0.2,
+          "model__C": 100
+        },
+        "best_score_inner_cv": 0.816799953223355,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__kernel": "rbf",
+          "model__gamma": "auto",
+          "model__epsilon": 0.1,
+          "model__C": 100
+        },
+        "best_score_inner_cv": 0.8197426162571014,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__kernel": "rbf",
+          "model__gamma": "scale",
+          "model__epsilon": 0.2,
+          "model__C": 100
+        },
+        "best_score_inner_cv": 0.8221085065259119,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__kernel": "rbf",
+          "model__gamma": "scale",
+          "model__epsilon": 0.2,
+          "model__C": 100
+        },
+        "best_score_inner_cv": 0.8162792606456835,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__kernel": "rbf",
+          "model__gamma": "scale",
+          "model__epsilon": 0.2,
+          "model__C": 100
+        },
+        "best_score_inner_cv": 0.8194918849441906,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "Ridge": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__alpha": 100
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__alpha": 1000
+        },
+        "best_score_inner_cv": 0.7723032761412741,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__alpha": 100
+        },
+        "best_score_inner_cv": 0.7758128408524109,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__alpha": 100
+        },
+        "best_score_inner_cv": 0.7816754767531253,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__alpha": 1000
+        },
+        "best_score_inner_cv": 0.7689077337763437,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__alpha": 100
+        },
+        "best_score_inner_cv": 0.7775385647100133,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "Lasso": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__alpha": 0.1
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__alpha": 0.1
+        },
+        "best_score_inner_cv": 0.7806658027336432,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__alpha": 0.1
+        },
+        "best_score_inner_cv": 0.7817045270473392,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__alpha": 0.1
+        },
+        "best_score_inner_cv": 0.7893235011831686,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__alpha": 0.1
+        },
+        "best_score_inner_cv": 0.7782595740267592,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__alpha": 0.1
+        },
+        "best_score_inner_cv": 0.7826564050293624,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "KNN": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__weights": "distance",
+      "model__p": 1,
+      "model__n_neighbors": 5
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__weights": "distance",
+          "model__p": 1,
+          "model__n_neighbors": 5
+        },
+        "best_score_inner_cv": 0.808298751501237,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__weights": "distance",
+          "model__p": 1,
+          "model__n_neighbors": 5
+        },
+        "best_score_inner_cv": 0.8117915378188859,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__weights": "distance",
+          "model__p": 1,
+          "model__n_neighbors": 5
+        },
+        "best_score_inner_cv": 0.8033368090366665,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__weights": "distance",
+          "model__p": 1,
+          "model__n_neighbors": 5
+        },
+        "best_score_inner_cv": 0.8110757828320198,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__weights": "distance",
+          "model__p": 1,
+          "model__n_neighbors": 5
+        },
+        "best_score_inner_cv": 0.8073151223900524,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "DecisionTree": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__min_samples_split": 5,
+      "model__min_samples_leaf": 4,
+      "model__max_depth": 20
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 4,
+          "model__max_depth": 20
+        },
+        "best_score_inner_cv": 0.7760739500316401,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 4,
+          "model__max_depth": 20
+        },
+        "best_score_inner_cv": 0.7807722229112833,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 4,
+          "model__max_depth": 20
+        },
+        "best_score_inner_cv": 0.7628587723993694,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 4,
+          "model__max_depth": 20
+        },
+        "best_score_inner_cv": 0.7686254595043135,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__min_samples_split": 10,
+          "model__min_samples_leaf": 2,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.7714640001649382,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "LightGBM": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__num_leaves": 63,
+      "model__n_estimators": 600,
+      "model__max_depth": -1,
+      "model__learning_rate": 0.05
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__num_leaves": 63,
+          "model__n_estimators": 600,
+          "model__max_depth": -1,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8763839832787088,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__num_leaves": 63,
+          "model__n_estimators": 600,
+          "model__max_depth": -1,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8784607886941146,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__num_leaves": 63,
+          "model__n_estimators": 600,
+          "model__max_depth": -1,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8723284674726043,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__num_leaves": 63,
+          "model__n_estimators": 600,
+          "model__max_depth": -1,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8745358106690269,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__num_leaves": 31,
+          "model__n_estimators": 600,
+          "model__max_depth": -1,
+          "model__learning_rate": 0.1
+        },
+        "best_score_inner_cv": 0.8757128133626676,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "GradientBoosting": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__subsample": 0.9,
+      "model__n_estimators": 500,
+      "model__max_depth": 5,
+      "model__learning_rate": 0.05
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__subsample": 0.9,
+          "model__n_estimators": 500,
+          "model__max_depth": 5,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8643532963911592,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__subsample": 0.9,
+          "model__n_estimators": 500,
+          "model__max_depth": 5,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.867037860529439,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__subsample": 0.9,
+          "model__n_estimators": 500,
+          "model__max_depth": 5,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8580017198379185,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__subsample": 0.9,
+          "model__n_estimators": 500,
+          "model__max_depth": 5,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.863711852283218,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__subsample": 0.9,
+          "model__n_estimators": 500,
+          "model__max_depth": 5,
+          "model__learning_rate": 0.05
+        },
+        "best_score_inner_cv": 0.8674531671625211,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "RandomForest": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__n_estimators": 500,
+      "model__min_samples_split": 5,
+      "model__min_samples_leaf": 1,
+      "model__max_depth": null
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8583447221570858,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8610665654114841,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8543661627476117,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8559034912301698,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8583038634067082,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "ExtraTrees": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__n_estimators": 500,
+      "model__min_samples_split": 2,
+      "model__min_samples_leaf": 2,
+      "model__max_depth": null
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8691080489296698,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 2,
+          "model__min_samples_leaf": 2,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8706574503193486,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 5,
+          "model__min_samples_leaf": 1,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8642451924112781,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 2,
+          "model__min_samples_leaf": 2,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.8647152355609563,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__n_estimators": 500,
+          "model__min_samples_split": 2,
+          "model__min_samples_leaf": 2,
+          "model__max_depth": null
+        },
+        "best_score_inner_cv": 0.867247007505434,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  },
+  "XGBoost": {
+    "status": "success",
+    "error_message": "",
+    "best_params": {
+      "model__subsample": 0.7,
+      "model__n_estimators": 300,
+      "model__max_depth": 7,
+      "model__learning_rate": 0.1,
+      "model__colsample_bytree": 0.9
+    },
+    "best_params_by_fold": [
+      {
+        "fold": 1,
+        "best_params": {
+          "model__subsample": 0.7,
+          "model__n_estimators": 300,
+          "model__max_depth": 7,
+          "model__learning_rate": 0.1,
+          "model__colsample_bytree": 0.9
+        },
+        "best_score_inner_cv": 0.8721612323787501,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 2,
+        "best_params": {
+          "model__subsample": 0.7,
+          "model__n_estimators": 300,
+          "model__max_depth": 7,
+          "model__learning_rate": 0.1,
+          "model__colsample_bytree": 0.9
+        },
+        "best_score_inner_cv": 0.8760546285672751,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 3,
+        "best_params": {
+          "model__subsample": 0.7,
+          "model__n_estimators": 300,
+          "model__max_depth": 7,
+          "model__learning_rate": 0.1,
+          "model__colsample_bytree": 0.9
+        },
+        "best_score_inner_cv": 0.866194894365143,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 4,
+        "best_params": {
+          "model__subsample": 0.7,
+          "model__n_estimators": 300,
+          "model__max_depth": 7,
+          "model__learning_rate": 0.1,
+          "model__colsample_bytree": 0.9
+        },
+        "best_score_inner_cv": 0.8696946369022215,
+        "selection_method": "random_search",
+        "search_error": ""
+      },
+      {
+        "fold": 5,
+        "best_params": {
+          "model__subsample": 0.7,
+          "model__n_estimators": 300,
+          "model__max_depth": 7,
+          "model__learning_rate": 0.1,
+          "model__colsample_bytree": 0.9
+        },
+        "best_score_inner_cv": 0.8761012075957352,
+        "selection_method": "random_search",
+        "search_error": ""
+      }
+    ]
+  }
+}

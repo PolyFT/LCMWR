@@ -1,0 +1,61 @@
+{
+  "matching_version": "fragment_smiles_query_v2",
+  "blend_rule_version": "hierarchical_mole_internal_mass_blend_v1",
+  "vocab_file": "results/local_vocab_parallel_threshold.csv",
+  "vocab_hash": "7d479e258a4c",
+  "data_hash": "ea874e462b40",
+  "scientific_data_hash": "0a663026a853",
+  "source_metadata_hash": "da3d402b6c1e",
+  "data_file": "dataset/T5.csv",
+  "raw_vocab_count": 5705,
+  "rows_after_passed_support_filter": 5705,
+  "rows_after_dropping_empty": 5705,
+  "unique_vocab_count": 5705,
+  "valid_vocab_count": 5705,
+  "compiled_vocab_count": 5705,
+  "failed_vocab_count": 0,
+  "unique_component_smiles_count": 406,
+  "active_vocab_count": 5039,
+  "all_zero_vocab_count": 666,
+  "active_vocab_ratio": 0.8832602979842243,
+  "feature_matrix_shape_before_zero_drop": [
+    584,
+    5705
+  ],
+  "feature_matrix_shape_after_zero_drop": [
+    584,
+    5039
+  ],
+  "component_nonzero_mean": 189.9655172413793,
+  "component_nonzero_median": 136.0,
+  "component_nonzero_min": 3,
+  "component_nonzero_max": 754,
+  "first_twenty_component_match_counts": {
+    "*Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)Cc2ccccc2)cc(c1)C(=O)*": 753,
+    "*Nc1ccc(cc1)c1ccc(cc1)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)Cc2ccccc2)cc(c1)C(=O)*": 746,
+    "*Nc1cccc(c1)NC(=O)c1cc(cc(c1)C(=O)*)NC(=O)C(N1C(=O)c2c(C1=O)c(Br)c(c(c2Br)Br)Br)Cc1ccccc1": 754,
+    "*Nc1cccc2c1cccc2NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)Cc2ccccc2)cc(c1)C(=O)*": 730,
+    "C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1": 37,
+    "C1(NCCN2CCN(C3=NC(NCCN4CCNCC4)=NC(NCCN5CCNCC5)=N3)CC2)=NC(NCCN6CCN(C7=NC(NCCN8CCNCC8)=NC(NCCN9CCNCC9)=N7)CC6)=NC(NCCN%10CCN(C%11=NC(NCCN%12CCNCC%12)=NC(NCCN%13CCNCC%13)=N%11)CC%10)=N1": 38,
+    "C=C(C)C(=O)OCC(CN1CCN(CC1)CC(COC(=O)C(=C)C)O)O": 66,
+    "C=C(CC(C(=C)C(=O)OCC1COC2(CCCO2)O1)C(=O)OCC1COC2(CCCO2)O1)C(=O)OCC1COC2(CCCO2)O1": 143,
+    "C=CCc1cc(OC)c(c(c1[H])CN(Cc1ccco1)[H])O": 72,
+    "CC(C(=O)OC)(C[H])[H]": 25,
+    "CC(C(=O)O[H])[H]": 13,
+    "CC(C)(C1=CC=C(C=C1)OCCO[H])C2=CC=C(C=C2)OCCOC(C(C=C3)=CC=C3C([H])=O)=O": 95,
+    "CC(C1=CC=C(C=C1)OC(C2=CC=C(C=C2)C([H])=O)=O)(C3=CC=C(C=C3)O[H])C": 87,
+    "CC(C1=CC=C(OC([H])=O)C=C1)(C)C2=CC=C(O[H])C=C2": 44,
+    "CC(C1=CC=C(OC([H])=O)C=C1)(C2=CC=C(O[H])C=C2)C": 44,
+    "CC(C[H])[H]": 3,
+    "CC([H])C[H]": 3,
+    "CC1(C)COP(=O)(Nc2cccc(c2)NP2(=O)OCC(C)(C)CO2)OC1": 102,
+    "CCC([C@H](n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)[C@@H](C(CC)C)C(=O)[H])C(=O)Nc1cc(N[H])cc(c1)C(=O)NCCc1ccc(c(c1)O)O)C": 201,
+    "CCC1(N(C(N(C(c2cc(C(N(c3cc(P(c4cc(N5C(c6ccc(C([H])=O)cc6C5=O)=O)ccc4)(c7ccccc7)=O)ccc3)C8=O)=O)c8cc2)=O)C1=O)=O)[H])C": 412
+  },
+  "composition_mode_counts": {
+    "homopolymer": 308,
+    "copolymer": 246,
+    "blend": 30
+  },
+  "excluded_composition_mode_counts": {}
+}

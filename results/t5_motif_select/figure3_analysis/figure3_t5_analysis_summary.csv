@@ -1,0 +1,2 @@
+task,metric,global_vocabulary_size,active_feature_count,selected_motif_count,original_feature_count,correlation_feature_count,best_750_performance,best_750_feature_count,umap_random_state,umap_n_neighbors,umap_min_dist
+T5,R²,5705,5039,582,5039,582,0.7069245813810574,582.0,48,5,0.8

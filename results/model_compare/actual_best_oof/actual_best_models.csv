@@ -1,0 +1,5 @@
+﻿task,best_model,selection_metric,selection_metric_mean,n_samples,n_features,oof_file,full_fit_file
+LOI,ExtraTrees,R2_mean,0.786566452488632,948,149,results/model_compare/actual_best_oof/LOI_actual_best_oof.csv,results/model_compare/actual_best_oof/LOI_actual_best_full_fit.joblib
+Tg,LightGBM,R2_mean,0.8817938694300473,518,156,results/model_compare/actual_best_oof/Tg_actual_best_oof.csv,results/model_compare/actual_best_oof/Tg_actual_best_full_fit.joblib
+T5,XGBoost,R2_mean,0.7069245863320959,584,582,results/model_compare/actual_best_oof/T5_actual_best_oof.csv,results/model_compare/actual_best_oof/T5_actual_best_full_fit.joblib
+UL94,XGBoost,ROC-AUC_mean,0.8566755289019795,495,84,results/model_compare/actual_best_oof/UL94_actual_best_oof.csv,results/model_compare/actual_best_oof/UL94_actual_best_full_fit.joblib

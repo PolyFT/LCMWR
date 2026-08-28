@@ -1,0 +1,19 @@
+{
+  "python_executable": null,
+  "jupyter_executable": null,
+  "results_directory": "results",
+  "executed_notebook_directory": "results/executed_notebooks",
+  "matplotlib_cache_directory": null,
+  "numba_cache_directory": null,
+  "fonts": {
+    "family": "Arial",
+    "regular_path": null,
+    "bold_path": null,
+    "allow_fallback_for_non_publication_validation": false
+  },
+  "resources": {
+    "feature_jobs": -1,
+    "cv_jobs": 2,
+    "xgboost_jobs": 4
+  }
+}

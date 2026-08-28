@@ -1,0 +1,42 @@
+{
+  "n_source_rows": 7174,
+  "n_unique_smiles": 7174,
+  "n_processed_rows": 7174,
+  "all_homopolymers": true,
+  "all_composition_valid": true,
+  "feature_shape": [
+    7174,
+    7875
+  ],
+  "features_finite": true,
+  "rows_aligned": true,
+  "oof_rows": 7174,
+  "oof_unique_samples": 7174,
+  "oof_folds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "oof_complete": true,
+  "all_models_oof": {
+    "n_samples": 7174,
+    "n_successful_models": 11,
+    "models": [
+      "MLP",
+      "SVR/SVM",
+      "Ridge",
+      "Lasso",
+      "KNN",
+      "DecisionTree",
+      "LightGBM",
+      "GradientBoosting",
+      "RandomForest",
+      "ExtraTrees",
+      "XGBoost"
+    ],
+    "all_models_complete": true,
+    "output_file": "results/model_compare/Tg_GREA/cv_predictions_with_source_ids.csv"
+  }
+}

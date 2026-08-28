@@ -1,0 +1,14 @@
+{
+  "data_file": "experiments/tg_grea/input/tg_grea_homopolymers.csv",
+  "data_hash": "862cb17c4ab58b18962fa4a04712358206830b83",
+  "vocab_file": "experiments/tg_grea/results/local_vocab_parallel_threshold.csv",
+  "vocab_hash": "769d70740a1a9dd7a58aef2754c6ee8e3e24671b",
+  "n_samples": 7174,
+  "unique_component_smiles_count": 7174,
+  "valid_vocab_count": 7875,
+  "active_vocab_count": 7875,
+  "all_zero_vocab_count": 0,
+  "composition_mode_counts": {
+    "homopolymer": 7174
+  }
+}

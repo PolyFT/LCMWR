@@ -1,0 +1,157 @@
+{
+  "schema_version": 1,
+  "paper": {
+    "title": "A Component-Weighted Local Chemical Motif Representation for Unified Polymer Informatics",
+    "authors": [
+      "Run-Fang Gao",
+      "Ya-Jie Yang",
+      "Ran Wang",
+      "Ya-Lin Song",
+      "Xiu-Li Wang",
+      "Teng Fu",
+      "Yu-Zhong Wang"
+    ],
+    "repository": "https://github.com/PolyFT/LCMWR"
+  },
+  "dataset_scope": {
+    "complete_total": 2545,
+    "public_total": 1765,
+    "restricted_total": 780,
+    "tasks": {
+      "LOI": {
+        "public_file": "dataset/LOI.csv",
+        "public_rows": 738,
+        "complete_rows": 948,
+        "system_counts": {"homopolymer": 363, "copolymer": 501, "blend": 84}
+      },
+      "T5": {
+        "public_file": "dataset/T5.csv",
+        "public_rows": 411,
+        "complete_rows": 584,
+        "system_counts": {"homopolymer": 308, "copolymer": 246, "blend": 30}
+      },
+      "Tg": {
+        "public_file": "dataset/Tg.csv",
+        "public_rows": 313,
+        "complete_rows": 518,
+        "system_counts": {"homopolymer": 233, "copolymer": 284, "blend": 1}
+      },
+      "UL94": {
+        "public_file": "dataset/UL-94.csv",
+        "public_rows": 303,
+        "complete_rows": 495,
+        "system_counts": {"homopolymer": 62, "copolymer": 313, "blend": 120},
+        "class_counts": {"V-0": 159, "non-V-0": 336}
+      }
+    }
+  },
+  "protocol": {
+    "random_state": 48,
+    "nested_cross_validation": {"outer_splits": 5, "inner_splits": 3},
+    "parameter_search_iterations": 20,
+    "feature_selection_combinations": 750,
+    "ul94_positive_class": "V-0"
+  },
+  "motifs": {
+    "cleaned_unique_components": 752,
+    "candidate_motifs": 26661,
+    "global_vocabulary_size": 5705
+  },
+  "tasks": {
+    "LOI": {
+      "slug": "loi",
+      "active_features": 5535,
+      "selected_features": 149,
+      "thresholds": {"frequency": 0.05, "variance": 0.05, "mi_percentile": 30, "correlation": 0.95},
+      "best_model": "ExtraTrees",
+      "nested_cv": {"primary_metric": "R2", "mean": 0.786566452488632, "std": 0.0385191133903348, "rmse_mean": 4.165458016242016, "mae_mean": 2.594653782598233},
+      "pooled_oof": {"r2": 0.7853609929623819, "rmse": 4.194039751154072},
+      "shap_ranking_file": "results/interpretability/LOI/shap_importance_ranking_LOI.csv",
+      "shap_top_display_features": ["c1ccccc1", "C", "Br", "P"]
+    },
+    "T5": {
+      "slug": "t5",
+      "active_features": 5039,
+      "selected_features": 582,
+      "thresholds": {"frequency": 0.01, "variance": 0.001, "mi_percentile": 50, "correlation": 0.98},
+      "best_model": "XGBoost",
+      "nested_cv": {"primary_metric": "R2", "mean": 0.7069245863320959, "std": 0.0765717670736561, "rmse_mean": 41.20034111052973, "mae_mean": 24.893320440285656},
+      "pooled_oof": {"r2": 0.7057414767804466, "rmse": 41.74828390015544},
+      "shap_ranking_file": "results/interpretability/T5/shap_importance_ranking_T5.csv",
+      "shap_top_display_features": ["CCc1ccc(C)cc1", "O=Cc1ccccc1", "Cc1ccc(Oc2ccccc2)cc1", "c1ccc(-c2ccccc2)cc1"]
+    },
+    "Tg": {
+      "slug": "tg",
+      "active_features": 4742,
+      "selected_features": 156,
+      "thresholds": {"frequency": 0.01, "variance": 0.05, "mi_percentile": 70, "correlation": 0.98},
+      "best_model": "LightGBM",
+      "nested_cv": {"primary_metric": "R2", "mean": 0.8817938694300473, "std": 0.0335912756736322, "rmse_mean": 25.654613703988424, "mae_mean": 15.186782538261422},
+      "pooled_oof": {"r2": 0.8810212006909262, "rmse": 26.00080592168786},
+      "shap_ranking_file": "results/interpretability/Tg/shap_importance_ranking_Tg.csv",
+      "shap_top_display_features": ["c1ccccc1", "N", "CC", "C"]
+    },
+    "UL94": {
+      "slug": "ul94",
+      "active_features": 3261,
+      "selected_features": 84,
+      "thresholds": {"frequency": 0.08, "variance": 0.001, "mi_percentile": 70, "correlation": 0.98},
+      "best_model": "XGBoost",
+      "nested_cv": {"primary_metric": "ROC-AUC", "mean": 0.8566755289019795, "std": 0.0409183069503497, "accuracy_mean": 0.7757575757575756},
+      "pooled_oof": {"roc_auc": 0.839660077867625},
+      "shap_ranking_file": "results/interpretability/UL94/shap_importance_ranking_UL94_V-0.csv",
+      "shap_top_display_features": ["Cc1ccc(CO)cc1", "CP", "N", "CCOCc1ccc(C)cc1"]
+    }
+  },
+  "si_example_ia": {
+    "polymer_name": "IA",
+    "component_1": "OCC1=CC=C(C=C1)C2(CCCCC2)C3=CC=C(C=C3)CO",
+    "component_2": "O=C(CCC(Cl)=O)Cl",
+    "mole_fractions": [0.5, 0.5],
+    "target": 21.5,
+    "nonzero_selected_features": [
+      {"motif": "C", "component_counts": [20, 4], "weighted_value": 12.0},
+      {"motif": "CCC", "component_counts": [11, 2], "weighted_value": 6.5},
+      {"motif": "CC", "component_counts": [10, 3], "weighted_value": 6.5},
+      {"motif": "CCCCC", "component_counts": [10, 0], "weighted_value": 5.0},
+      {"motif": "CCC1=CC=CC=C1", "component_counts": [6, 0], "weighted_value": 3.0},
+      {"motif": "CCC(C)C", "component_counts": [6, 0], "weighted_value": 3.0},
+      {"motif": "CC1=CC=CC=C1", "component_counts": [4, 0], "weighted_value": 2.0},
+      {"motif": "O", "component_counts": [2, 2], "weighted_value": 2.0},
+      {"motif": "CC(C)C", "component_counts": [4, 0], "weighted_value": 2.0},
+      {"motif": "CO", "component_counts": [2, 0], "weighted_value": 1.0},
+      {"motif": "CC=O", "component_counts": [0, 2], "weighted_value": 1.0},
+      {"motif": "C=O", "component_counts": [0, 2], "weighted_value": 1.0},
+      {"motif": "CCO", "component_counts": [2, 0], "weighted_value": 1.0},
+      {"motif": "CCC=O", "component_counts": [0, 2], "weighted_value": 1.0},
+      {"motif": "CC1=CC=C(C)C=C1", "component_counts": [2, 0], "weighted_value": 1.0},
+      {"motif": "OCC1=CC=CC=C1", "component_counts": [2, 0], "weighted_value": 1.0},
+      {"motif": "C1=CC=CC=C1", "component_counts": [2, 0], "weighted_value": 1.0},
+      {"motif": "CC(C1=CC=CC=C1)C1=CC=CC=C1", "component_counts": [2, 0], "weighted_value": 1.0},
+      {"motif": "C1=CC=C(CC2=CC=CC=C2)C=C1", "component_counts": [1, 0], "weighted_value": 0.5},
+      {"motif": "CC(C)(C)C", "component_counts": [1, 0], "weighted_value": 0.5},
+      {"motif": "CCCC=O", "component_counts": [0, 2], "weighted_value": 1.0}
+    ]
+  },
+  "grea": {
+    "public_file": "dataset/Tg_GREA.csv",
+    "samples": 7174,
+    "active_features": 7875,
+    "selected_features": 1531,
+    "feature_selection_combinations": 750,
+    "best_model": "LightGBM",
+    "nested_cv": {"r2_mean": 0.8932298998427914, "r2_std": 0.0047273290934613, "rmse_mean": 36.62528725913732, "mae_mean": 24.45709059167063},
+    "pooled_oof": {"r2": 0.8933629918629985, "rmse": 36.62958117863335}
+  },
+  "figure4_svg_files": [
+    "figure4c_tg_oof.svg",
+    "figure4d_t5_oof.svg",
+    "figure4e_loi_oof.svg",
+    "figure4f_ul94_oof_roc.svg"
+  ],
+  "paper_items": [
+    "Figure 1", "Figure 2", "Figure 3", "Figure 4", "Figure 5", "Figure 6",
+    "Figure S1", "Figure S2", "Figure S3", "Figure S4", "Figure S5", "Figure S6", "Figure S7", "Figure S8",
+    "Table S1", "Table S2", "Table S3", "Table S4", "Table S5", "Table S6", "Table S7", "Table S8", "Table S9", "Table S10", "Table S11", "Table S12", "Table S13", "Table S14"
+  ]
+}

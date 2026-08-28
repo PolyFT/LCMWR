@@ -1,0 +1,7 @@
+step,feature_count,performance,protected_count,removed_count,step_description
+Original,5039,0.6809964973190878,0,0,Initial feature set
+Frequency,3473,0.6928049037440275,1,1566,Frequency >= 0.01
+Variance,3166,0.6865099537692914,0,307,Variance >= 0.001
+MutualInfo,1583,0.694750553352451,0,1583,MI percentile >= 50.0%
+Correlation,582,0.7069245813810574,0,1001,Correlation < 0.98 (improved)
+Final,582,0.7069245813810574,0,0,No performance-based whitelist protection

@@ -1,0 +1,30 @@
+{
+  "cache_version": "weighted_feature_matrix_v4_hierarchical_composition",
+  "task": "tg",
+  "target": "Tg",
+  "matching_version": "fragment_smiles_query_v2",
+  "blend_rule_version": "hierarchical_mole_internal_mass_blend_v1",
+  "molecular_weight_method": "RDKit.Chem.rdMolDescriptors.CalcExactMolWt",
+  "rdkit_version": "2022.09.5",
+  "feature_filter_version": "drop_all_zero_v5_smiles_query",
+  "vocab_hash": "7d479e258a4c",
+  "scientific_data_hash": "856c71e04a7c",
+  "data_hash": "872fab809d95",
+  "source_metadata_hash": "2c71aaefb69b",
+  "cache_file": "results/tg_motif_select/tg_vocab_weighted_v9.pkl",
+  "feature_matrix_shape": [
+    518,
+    4742
+  ],
+  "feature_count": 4742,
+  "sample_count": 518,
+  "active_vocab_count": 4742,
+  "all_zero_vocab_count": 963,
+  "composition_mode_counts": {
+    "copolymer": 284,
+    "homopolymer": 233,
+    "blend": 1
+  },
+  "excluded_composition_mode_counts": {},
+  "loaded_from_validated_v9_cache": false
+}

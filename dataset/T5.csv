@@ -1,0 +1,412 @@
+DOI,type,polymer_family,PolymerName,co_smiles,smiles1,smiles2,co_content1,wt1,mol1,co_smiles1,co_content2,wt2,mol2,mix_content1,mix_smiles1,mix_wt1,mix_mol1,mix_content2,mix_smiles2,mix_wt2,mix_mol2,T5
+10.1016/j.cej.2023.144983,copolymer,PA,PA 6-co-DPA1,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(C1=CC(NP(C2=CC=CC=C2)(C3=CC=CC=C3)=O)=CC(C(NCCCCCCN[Rb])=O)=C1)=O,,,100,,,,1,,,,,,,,,60.4
+10.1016/j.cej.2023.144983,copolymer,PA,PA 6-co-DPA2,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(C1=CC(NP(C2=CC=CC=C2)(C3=CC=CC=C3)=O)=CC(C(NCCCCCCN[Rb])=O)=C1)=O,,,100,,,,2,,,,,,,,,71.3
+10.1016/j.cej.2023.144983,copolymer,PA,PA 6-co-DPA3,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(C1=CC(NP(C2=CC=CC=C2)(C3=CC=CC=C3)=O)=CC(C(NCCCCCCN[Rb])=O)=C1)=O,,,100,,,,3,,,,,,,,,75.1
+10.1177/0954008315580822,homopolymer,,polyphosphonates_10,,[Fr]CN(c1ccccc1C)Cc1c(O)ccc(c1[Rb])/C=N/CC/N=C/c1ccc2c(c1)CN(CO2)c1ccccc1C,,,,100,,,,0,,,,,,,,,128
+10.1016/1381-5148(95)00121-2,homopolymer,,acrylated phosphate_BTP,,[Fr]Oc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)OP(=O)(Oc1ccc(cc1)[N+](=O)[O-])[Rb],,,,100,,,,0,,,,,,,,,155
+10.1016/j.polymdegradstab.2011.12.002,homopolymer,,phosphorus-containing diamines-BAPP,,[Rb]OC(=O)c1cc(cc(c1)C(=O)c1ccc(cc1)c1ccc(cc1)[Fr])NS(=O)(=O)CCN1C(=O)c2c(C1=O)c(Cl)c(c(c2Cl)Cl)Cl,,,,100,,,,0,,,,,,,,,167
+10.1080/15685551.2013.771316,homopolymer,,PA6c,,[Rb]NC1=CC=C(C=C1)C2=CC(C3=CC=C(C=C3)Br)=CC(C4=CC=C(C=C4)NC(CCCCC([Fr])=O)=O)=N2,,,,100,,,,0,,,,,,,,,176
+10.1016/j.polymdegradstab.2011.12.002,homopolymer,,poly(pyridine thiourea-imide)s (PPTIs)-BPDA,,[Rb]OC(=O)c1cc(cc(c1)C(=O)c1ccc(cc1)[Fr])NS(=O)(=O)CCN1C(=O)c2c(C1=O)c(Cl)c(c(c2Cl)Cl)Cl,,,,100,,,,0,,,,,,,,,180
+10.1016/j.polymdegradstab.2007.05.017,homopolymer,,PBPDP,,C=C(CC(C(=C)C(=O)OCC1COC2(CCCO2)O1)C(=O)OCC1COC2(CCCO2)O1)C(=O)OCC1COC2(CCCO2)O1,,,,100,,,,0,,,,,,,,,185
+10.1016/j.porgcoat.2007.04.007,homopolymer,,PBDP,,C=C(C)C(=O)OCC(CN1CCN(CC1)CC(COC(=O)C(=C)C)O)O,,,,100,,,,0,,,,,,,,,196
+10.1080/15685551.2013.771316,homopolymer,,PA6b,,[Rb]NC1=CC=C(C=C1)C2=CC(C3=CC=C(C=C3)N(C)C)=CC(C4=CC=C(C=C4)NC(CCCCC([Fr])=O)=O)=N2,,,,100,,,,0,,,,,,,,,207
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone ketone)_BrPh-PEEKK,,[Fr]Oc1c(Br)cc(cc1Br)C(c1cc(Br)c(c(c1)Br)OP(=O)(Oc1c(Br)cc(c(c1Br)CCCCCCCCCCCCCC(C(Br)(Br)Br)Br)Br)[Rb])(C)C,,,,100,,,,0,,,,,,,,,210
+10.1002/app.47847,homopolymer,,PEAs,,[Fr]CN(c1ccccc1)Cc1c(O)ccc(c1[Rb])Cc1ccc2c(c1)CC(NO2)c1ccccc1,,,,100,,,,0,,,,,,,,,211
+10.1016/j.tca.2016.03.020,homopolymer,,polyphosphonates_4,,CC(C[Fr])[Rb],,,,100,,,,0,,,,,,,,,217
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone ketone)_FPh-PEEKK,,[Fr]Oc1ccc(cc1)OP(=O)(Oc1c(Br)cc(c(c1Br)CCCCCCCCCCCCCC(C(Br)(Br)Br)Br)Br)[Rb],,,,100,,,,0,,,,,,,,,220
+10.1080/1023666X.2021.1891379,homopolymer,,polyamide 66(PA66),,[Rb]Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1cccc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,221
+10.1080/1023666X.2021.1891379,homopolymer,,Polyamide6(PA6）,,[Rb]Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1cccc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,225
+10.1002/pat.3692,homopolymer,PA,Polyamide6(PA6),,[Rb]CC(C(=O)Nc1ccc(cc1)/C=C/C(=O)c1c2ccccc2cc2c1cccc2)[Fr],,,,100,,,,0,,,,,,,,,226
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone ketone)_ClPh-PEEKK,,[Fr]Oc1ccc(cc1)C(c1ccc(cc1)OP(=O)(Oc1c(Br)cc(c(c1Br)CCCCCCCCCCCCCC(C(Br)(Br)Br)Br)Br)[Rb])(C)C,,,,100,,,,0,,,,,,,,,230
+10.1080/1023666X.2021.1891379,homopolymer,,N-(4-((E)-3-(2-methoxynaphthalen-6-yl)-3-oxoprop-1-en-1-yl) phenyl) acrylamide (MNPA),,[Rb]Nc1cccc(c1)NC(=O)Cc1ccc(cc1)Oc1cccc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,230
+10.1080/1023666X.2021.1891379,homopolymer,,(4-((E)-3-(anthracen-10-yl)-3-oxoprop-1-enyl) phenyl) acrylamide (APA),,[Fr]Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1cccc(n1)Oc1ccc(cc1)CC(=O)[Rb],,,,100,,,,0,,,,,,,,,232
+10.1039/c6ra06742e,homopolymer,,polyphosphates_P1,,[Fr]Oc1ccc(cc1)C(c1ccc(cc1)OP(=O)(c1ccccc1)[Rb])(CCC(=O)OCC12COP(=O)(OC1)OC2)C,,,,100,,,,0,,,,,,,,,236.8
+10.1016/j.compositesb.2020.108184,homopolymer,,PI-a,,OC(C[Rb])[Fr],,,,100,,,,0,,,,,,,,,240
+10.1016/j.compositesb.2020.108437,homopolymer,,Poly(ether-azomethine)s-2,,CC(C(=O)OC)(C[Fr])[Rb],,,,100,,,,0,,,,,,,,,243
+10.1021/ie5008745,homopolymer,,fluorine-containing polyphosphates_1b,,[Fr]NCCC[Si](O[Si](CCCNP(=O)(c1ccccc1)[Rb])(C)C)(C)C,,,,100,,,,0,,,,,,,,,248
+10.1007/s10118-010-9075-0,homopolymer,,poly(ether ether ketone)_Ph-PEEK,,[Fr]Nc1cccc(c1)P(=O)(c1ccccc1)c1cccc(c1)NC(=O)C(n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)C(C(=O)[Rb])CC)CC,,,,100,,,,0,,,,,,,,,250
+10.1080/15685551.2020.1795435,homopolymer,,polyamide-phosphate esters _PPAD-APC_2,,[Rb]Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1nc(Oc2ccccc2)nc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,250
+10.1016/1381-5148(95)00121-2,homopolymer,,Hexaacrylated cyclophosphazene_HACP,,[Rb]Oc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)OP(=O)(Oc1ccc(cc1)Br)[Fr],,,,100,,,,0,,,,,,,,,250
+10.1002/APP.40855,homopolymer,,PAPO-14,,COC(=O)CCN(CCO)CCO,,,,100,,,,0,,,,,,,,,250
+10.1039/d1py00450f,homopolymer,10.1039/d1py00450f,,,[Fr]OCc1ccc(o1)C1OCC(CO1)(CC)COCC1(CC)COC(OC1)c1ccc(o1)COC(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)[Rb],,,,100,,,,0,,,,,,,,,253
+10.1021/acsomega.3c06235,copolymer,PS,PS148-b-PFAA-DOPO32,,[Rb]CC([Fr])C1=CC=CC=C1,O=C(OCP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O)C([Fr])C[Rb],,,1,,,,50,,,,,,,,,255.39
+10.1016/1381-5148(95)00121-2,homopolymer,,epoxy acrylate_(EA),,[Fr]Oc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)OP(=O)(Oc1ccc(cc1)C)[Rb],,,,100,,,,0,,,,,,,,,257
+10.1021/ie301562b,homopolymer,,polyphosphonate_P3,,[Fr]Oc1ccc(cc1)/C=N/CC/N=C/c1ccc(cc1)OP(=O)(Oc1ccccc1)[Rb],,,,100,,,,0,,,,,,,,,258
+10.1002/fam.2145,homopolymer,,PBSeb,,CC1(C)COP(=O)(Nc2cccc(c2)NP2(=O)OCC(C)(C)CO2)OC1,,,,100,,,,0,,,,,,,,,258
+10.1016/j.polymdegradstab.2006.12.009,homopolymer,,E-51,,[Fr]Nc1ccc(cc1)Cc1ccc(cc1)NP1(=O)OCC2(CO1)COP(=O)(OC2)[Rb],,,,100,,,,0,,,,,,,,,259
+10.1021/ie301562b,homopolymer,,polyphosphonate_P2,,[Fr]Oc1ccc(cc1)/C=N/CCNCC/N=C/c1ccc(cc1)OP(=O)(Oc1ccccc1)[Rb],,,,100,,,,0,,,,,,,,,260
+10.1002/pat.3692,homopolymer,PA,Polyamide11(PA11),,[Rb]CC(C(=O)Nc1ccc(cc1)/C=C/C(=O)c1ccc2c(c1)ccc(c2)OC)[Fr],,,,100,,,,0,,,,,,,,,260
+10.1080/15685551.2020.1795435,homopolymer,,polyamide-phosphate esters _PPAD-APC_3,,[Rb]Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1nc(Oc2ccccc2)nc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,260
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone ketone)_Ph-PEEKK,,CCCCCCCCCCCCCCCc1cccc(c1)OP(=O)(Oc1ccc(cc1)C1(OC(=O)c2c1cccc2)c1ccc(cc1)O[Fr])[Rb],,,,100,,,,0,,,,,,,,,260
+10.1080/15685551.2020.1795435,homopolymer,,polyamide-phosphate esters _PPAD-APC_5,,[Rb]Nc1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1nc(Oc2ccccc2)nc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,265
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone)_FPh-PEEK,,CCCCCCCCCCCCCCCc1cccc(c1)OP(=O)(Oc1ccc(cc1)O[Fr])[Rb],,,,100,,,,0,,,,,,,,,265
+10.1002/jccs.200900091,homopolymer,,Aromatic Polycarbonates_PC-1,,[Fr]Nc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(cc1)NC(=O)C(N1C(=O)C2C(C1=O)C1C=CC2C2C1C(=O)N(C2)C(C(=O)[Rb])CC)CC,,,,100,,,,0,,,,,,,,,270
+"Materials Science-Poland, Vol. 28, No. 2, 2010",homopolymer,PA,poly(amide-imide)s-S-valine_8c,,[Fr]NCP(=O)(c1ccccc1)c1cccc(c1)NC(=O)C(N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb])C(C)C,,,,100,,,,0,,,,,,,,,270
+10.1080/15685551.2020.1795435,homopolymer,,polyamide-phosphate esters _PPAD-APC_4,,[Rb]Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)NC(=O)Cc1ccc(cc1)Oc1nc(Oc2ccccc2)nc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,270
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone)_ClPh-PEEK,,CCCCCCCCCCCCCCCc1cccc(c1)OP(=O)(Oc1ccc(cc1)C(c1ccc(cc1)O[Fr])(C)C)[Rb],,,,100,,,,0,,,,,,,,,270
+10.1016/j.jaap.2014.11.001,homopolymer,,Polycarbonates_PC,,OCCNc1nc(NCCCCCCN[Fr])nc(n1)[Rb],,,,100,,,,0,,,,,,,,,270
+10.1021/acsomega.3c06235,copolymer,PS,PS148-b-PFAA-DOPO50,,[Rb]CC([Fr])C1=CC=CC=C1,O=C(OCP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O)C([Fr])C[Rb],,,1,,,,100,,,,,,,,,270.47
+10.1007/BF03218608,homopolymer,,,,[Rb]C(C(CC)N1C([C@H]([C@H]2C(C(N(C(CC)C(NC3=CC=CC(P(C4=CC=CC(N[Fr])=C4)(C5=CC=CC=C5)=O)=C3)=O)C6=O)=O)C6[C@@H]7C=C2)[C@H]7C1=O)=O)=O,,,,100,,,,0,,,,,,,,,272.5
+https://journals.tubitak.gov.tr/chem/vol30/iss5/12/,homopolymer,PA,polyamide,,O=C(C1=CC=C(C(N(C2=CC=C(OC3=CC=C(N4C(C(C=C(C([Fr])=O)C=C5)=C5C4=O)=O)C=C3)C=C2)C6=O)=O)C6=C1)NC7=CC=C(N[Rb])C=C7,,,,100,,,,0,,,,,,,,,272.5
+10.1002/pi.6137,homopolymer,PA,polyamides-ODA,,[Fr]Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(cc1)NC(P1(=O)Oc2ccccc2c2c1cccc2)c1ccc(cc1)C(P1(=O)Oc2ccccc2c2c1cccc2)Nc1ccc(cc1)C(=O)[Rb])(C)C,,,,100,,,,0,,,,,,,,,275
+"Materials Science-Poland, Vol. 28, No. 2, 2010",homopolymer,polyphosphonate,polyphosphonate_BPPT,,[Fr]NCP(=O)(c1ccccc1)c1cccc(c1)NC(=O)C(N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb])Cc1ccccc1,,,,100,,,,0,,,,,,,,,275
+10.1002/pola.1993.080311303,homopolymer,,poly(ether ether ketone)_BrPh-PEEK,,CCCCCCCCCCCCCCCc1cccc(c1)OP(=O)(Oc1c(Br)cc(cc1Br)C(c1cc(Br)c(c(c1)Br)O[Fr])(C)C)[Rb],,,,100,,,,0,,,,,,,,,275
+10.1016/j.eurpolymj.2020.109770,homopolymer,,polyimides 4c,,CCCCCCCCCCCCCCCCCCN(Cc1c(O)ccc(c1[Rb])Sc1ccc2c(c1)CN(CO2)CCCCCCCCCCCCCCCCCC)C[Fr],,,,100,,,,0,,,,,,,,,277
+10.1002/fam.2145,homopolymer,,PBS,,c1ccc(cc1)NP1(=O)OCC2(CO1)COP(=O)(Nc1ccccc1)OC2,,,,100,,,,0,,,,,,,,,279
+10.1007/s10118-010-9075-0,homopolymer,,"pyridine-2,6-diamine(PA-1)",,[Fr]Nc1cccc(c1)P(=O)(c1ccccc1)c1cccc(c1)NC(=O)C(n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)C(C(=O)[Rb])Cc1ccccc1)Cc1ccccc1,,,,100,,,,0,,,,,,,,,280
+10.1080/15685551.2020.1795435,homopolymer,,polyamide-phosphate esters _PPAD-APC_6,,[Rb]Nc1cccc(c1)NC(=O)Cc1ccc(cc1)Oc1nc(Oc2ccccc2)nc(n1)Oc1ccc(cc1)CC(=O)[Fr],,,,100,,,,0,,,,,,,,,280
+10.1080/15685551.2013.771316,homopolymer,,PA6a,,[Rb]NC1=CC=C(C=C1)C2=CC(C3=CC=C(C=C3)Cl)=CC(C4=CC=C(C=C4)NC(CCCCC([Fr])=O)=O)=N2,,,,100,,,,0,,,,,,,,,283
+10.1007/s00289-012-0892-x,homopolymer,PA,polyamides 4 containing pendentN-carbazole group,,O=C(NC1=CC(C2=NC(C3=CC=CC=C3)=C(C4=CC=CC=C4)N2)=C(OC5=CC(C(C(F)(F)F)(C(F)(F)F)C6=CC(OC7=CC=C(N[Rb])C=C7C8=NC(C9=CC=CC=C9)=C(C%10=CC=CC=C%10)N8)=CC=C6)=CC=C5)C=C1)CCCCCCCCC([Fr])=O,,,,100,,,,0,,,,,,,,,284
+10.1021/acssuschemeng.0c05931,homopolymer,,Polycarbonates_BPA-BHPM,,[Fr]NCCCCCCNP(=O)([Rb])C,,,,100,,,,0,,,,,,,,,286
+10.1021/ie301562b,homopolymer,,polybenzexazoles(PBO1),,[Fr]Oc1ccc(cc1)/C=N/c1ccc(cc1)/N=C/c1ccc(cc1)OP(=O)(Oc1ccccc1)[Rb],,,,100,,,,0,,,,,,,,,286
+10.1002/app.37910,homopolymer,,,,[Fr]C(C(C=C1)=CC=C1C(NCCN[Rb])=O)=O,,,,100,,,,0,,,,,,,,,289
+10.1002/app.23580,homopolymer,,Phosphorous-containing cardo polyesters_P2,,[Fr]Nc1cccc(n1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)c1cccc(c1)P(=O)(c1cccc(c1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb])c1ccccc1,,,,100,,,,0,,,,,,,,,290
+"Materials Science-Poland, Vol. 28, No. 2, 2010",homopolymer,PA,polyphosphonates_2,,[Fr]NCP(c1ccccc1)(c2cc(NC(C(C)N3C(c4ccc(C([Rb])=O)cc4C3=O)=O)=O)ccc2)=O,,,,100,,,,0,,,,,,,,,290
+10.1007/s00289-012-0892-x,homopolymer,PA,polyamides 1 containing pendentN-carbazole group,,O=C(CCCCCCCCC([Fr])=O)NC(C=C1)=CC(C2=NC(C3=CC=CC=C3)=C(N2)C4=CC=CC=C4)=C1OC5=CC(C(C6=CC(OC(C(C7=NC(C8=CC=CC=C8)=C(N7)C9=CC=CC=C9)=C%10)=CC=C%10N[Rb])=CC=C6)=O)=CC=C5,,,,100,,,,0,,,,,,,,,290
+10.1016/1381-5148(95)00121-2,homopolymer,,Polyvinyl alcohol_PVA,,COc1ccc(cc1)OP(=O)(Oc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)O[Rb])[Fr],,,,100,,,,0,,,,,,,,,292
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,[Rb]C(C1=CC=C(C(N(C2=CC=C(C(NC3=C(O)C=C(C4=CC(O)=C(N[Fr])C=C4)C=C3)=O)C=C2)C5=O)=O)C5=C1)=O,,,,100,,,,0,,,,,,,,,294
+10.1007/s00289-012-0892-x,homopolymer,PA,polyamides 3 containing pendentN-carbazole group,,O=C(NC1=CC(C2=NC(C3=CC=CC=C3)=C(C4=CC=CC=C4)N2)=C(OC5=CC(C(C(F)(F)F)(C(F)(F)F)C6=CC(OC7=CC=C(N[Rb])C=C7C8=NC(C9=CC=CC=C9)=C(C%10=CC=CC=C%10)N8)=CC=C6)=CC=C5)C=C1)C%11=CC=CC(C([Fr])=O)=N%11,,,,100,,,,0,,,,,,,,,295
+10.1080/1023666X.2021.1971835,homopolymer,,polyesters8d,,Cc1cc(ccc1Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1ccc(cc1)N)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1ccc(cc1)N=Cc1ccc(cc1)Oc1ccc(cc1C)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=O,,,,100,,,,0,,,,,,,,,296
+10.1021/acsomega.3c06235,copolymer,PS,PS148-b-PFAA-DOPO80,,[Rb]CC([Fr])C1=CC=CC=C1,O=C(OCP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O)C([Fr])C[Rb],,,1,,,,200,,,,,,,,,299.35
+10.1002/jccs.200900091,homopolymer,,Polycarbonates_CHDM-BPA,,[Rb]Nc1cccc(c1)P(=O)(c1ccccc1)c1ccc(cc1)NC(=O)C(N1C(=O)C2C(C1=O)C1C=CC2C2C1C(=O)N(C2)C(C(=O)[Fr])CC(C)C)CC(C)C,,,,100,,,,0,,,,,,,,,300
+10.1007/s00289-012-0892-x,homopolymer,PA,PAEb3,,O=C(NC1=CC(C2=NC(C3=CC=CC=C3)=C(C4=CC=CC=C4)N2)=C(OC5=CC(C(C6=CC(OC7=CC=C(N[Rb])C=C7C8=NC(C9=CC=CC=C9)=C(C%10=CC=CC=C%10)N8)=CC=C6)=O)=CC=C5)C=C1)C%11=CC=CC(C([Fr])=O)=N%11,,,,100,,,,0,,,,,,,,,301
+10.1002/(SICI)1097-4628(19970214)63:7<875::AID-APP7>3.0.CO;2-N,homopolymer,,,,O=C1N(C(C2=CC(OC3=CC(C(N([Rb])C4=O)=O)=C4C=C3)=CC=C21)=O)C5=CC=C(C=C5OP(OCC)(OCC)=O)C(C)(C6=CC(OP(OCC)(OCC)=O)=C([Fr])C=C6)C,,,,100,,,,0,,,,,,,,,301
+10.1007/BF03218608,homopolymer,,,,[Rb]C(C(CC(C)C)N1C([C@H]([C@H]2C(C(N(C(CC(C)C)C(NC3=CC=CC(P(C4=CC=CC(N[Fr])=C4)(C5=CC=CC=C5)=O)=C3)=O)C6=O)=O)C6[C@@H]7C=C2)[C@H]7C1=O)=O)=O,,,,100,,,,0,,,,,,,,,302.5
+10.1080/1023666X.2021.1971835,homopolymer,,Poly(amide-imide)s-5,,Cc1cc(ccc1Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1cccc(c1)Oc1ccc(cc1)N)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1cccc(c1)Oc1ccc(cc1)N=Cc1ccc(cc1)Oc1ccc(cc1C)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=O,,,,100,,,,0,,,,,,,,,303
+10.1007/s10118-010-9075-0,homopolymer,,poly(amide-imide)s-S-valine_8c,,[Fr]Nc1cccc(c1)P(=O)(c1ccccc1)c1cccc(c1)NC(=O)C(n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)C(C(=O)[Rb])C)C,,,,100,,,,0,,,,,,,,,305
+10.1002/app.24667,homopolymer,,phosphorus-nitrogen-silicon polymeric flame retardant_PNSFR,,CCC1(N(C(N(C(c2cc(C(N(c3cc(P(c4cc(N5C(c6ccc(C([Rb])=O)cc6C5=O)=O)ccc4)(c7ccccc7)=O)ccc3)C8=O)=O)c8cc2)=O)C1=O)=O)[Fr])CC,,,,100,,,,0,,,,,,,,,305
+10.1021/sc500548c,homopolymer,,Poly(azo-sulfone-amide)s-(PASAs)-1,,CCCCCCCCCCCCCCCCCCN(Cc1c([Rb])c(CC=C)cc(c1O)OC)[Fr],,,,100,,,,0,,,,,,,,,305
+10.1007/s10973-017-6092-z,homopolymer,,Arom-PI-5e,,[Fr]OCCCCOC(=O)CCC(=O)[Rb],,,,100,,,,0,,,,,,,,,306
+10.1002/(SICI)1099-0518(19970915)35:12<2453::AID-POLA15>3.0.CO;2-6,homopolymer,,polyamidophosphate-8,,[Rb]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OCC(OC(=O)[Fr])C,,,,100,,,,0,,,,,,,,,307
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,[Rb]C(C1=CC=C(C(N(C2=CC=CC(C(NC3=C(O)C=C(C4=CC(O)=C(N[Fr])C=C4)C=C3)=O)=C2)C5=O)=O)C5=C1)=O,,,,100,,,,0,,,,,,,,,308
+10.1002/jccs.200900091,homopolymer,,Polycarbonates_CHDM-BHPM,,[Fr]Nc1ccc(cc1)P(=O)(c1ccccc1)c1ccc(cc1)NC(=O)C(N1C(=O)C2C(C1=O)C1C=CC2C2C1C(=O)N(C2)C(C(CC)C)C(=O)[Rb])C(CC)C,,,,100,,,,0,,,,,,,,,310
+Journal of the Mexican Chemical Society61.3 (2017): 229-240.,homopolymer,PA,PA1,,[Rb]NC1=CC=C(C(C2=NC(C3=CC=CC=C3)=C(N2)C4=CC=CC=C4)=C1)OC5=CC=C(C=C5)C6=C(N=C(N6)C7=CC=C(C=C7)C(F)(F)F)C8=CC=C(C=C8)OC9=CC=C(C=C9C%10=NC(C%11=CC=CC=C%11)=C(N%10)C%12=CC=CC=C%12)NC(CCCCCCCCC([Fr])=O)=O,,,,100,,,,0,,,,,,,,,310
+10.1007/s10853-020-05281-3,homopolymer,,BDTA-4DDS,,[Fr]CC(COc1ccc(cc1)C(c1ccc(cc1)O[Rb])(C)C)O,,,,100,,,,0,,,,,,,,,310.2
+10.1039/c5ra18829f,homopolymer,,Polycarbonates_CHDM-CHDM,,[Fr]Oc1ccc(cc1)C1(OC(=O)c2c1cccc2)c1ccc(cc1)OP(=O)(c1ccccc1)[Rb],,,,100,,,,0,,,,,,,,,312
+10.1007/BF03218608,homopolymer,,,,[Rb]C(C(C(C)CC)N1C([C@H]([C@H]2C(C(N(C(C(C)CC)C(NC3=CC=CC(P(C4=CC=CC(N[Fr])=C4)(C5=CC=CC=C5)=O)=C3)=O)C6=O)=O)C6[C@@H]7C=C2)[C@H]7C1=O)=O)=O,,,,100,,,,0,,,,,,,,,312.5
+10.1002/pat.1515,homopolymer,,aromatic polyamides 15,,[H]C(C(NC1=CC(C(NC2=CC=C(OC3=C([C@@H]4C(C=CC=C5)=C5[C@H]6C7=C4C=CC=C7)C6=C(OC8=CC=C(N[Rb])C=C8)C=C3)C=C2)=O)=CC(C([Fr])=O)=C1)=O)(N9C(C%10C%11C%12=C(C(C%10C9=O)C%13=C%11C=CC=C%13)C=CC=C%12)=O)CC%14=CC=CC=C%14,,,,100,,,,0,,,,,,,,,315
+10.1002/(SICI)1099-0518(19970915)35:12<2453::AID-POLA15>3.0.CO;2-6,homopolymer,,polyamidophosphate-7,,[Fr]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OCCOCCOCCOCCOC(=O)[Rb],,,,100,,,,0,,,,,,,,,316
+10.1080/1023666X.2021.1971835,homopolymer,,Poly(amide-imide)s-3,,Cc1cc(ccc1Oc1ccc(cc1)C=Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)N)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)N=Cc1ccc(cc1)Oc1ccc(cc1C)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=O,,,,100,,,,0,,,,,,,,,316
+10.1002/(SICI)1099-0518(19970915)35:12<2453::AID-POLA15>3.0.CO;2-6,homopolymer,,polyamidophosphate-4,,[Fr]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OCCOC(=O)[Rb],,,,100,,,,0,,,,,,,,,317
+10.1002/app.23580,homopolymer,,Phosphorous-containing cardo polyesters_P3,,[Fr]Nc1cccc(c1)P(=O)(c1ccccc1)c1cccc(c1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)c1cccc(c1)P(=O)(c1cccc(c1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb])c1ccccc1,,,,100,,,,0,,,,,,,,,320
+10.1080/1023666X.2021.1971835,homopolymer,,Poly(amide-imide)s-4,,Cc1cc(ccc1Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1ccc(cc1)C1(CCCC1)c1ccc(cc1)Oc1ccc(cc1)N)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1ccc(cc1)C1(CCCC1)c1ccc(cc1)Oc1ccc(cc1)N=Cc1ccc(cc1)Oc1ccc(cc1C)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=O,,,,100,,,,0,,,,,,,,,320
+10.1002/app.24667,homopolymer,,poly(p-propane terephthalamide)_PPTA,,CCCCCC1(N(C(N(C(c2cc(C(N(c3cc(P(c4cc(N5C(c6ccc(C([Rb])=O)cc6C5=O)=O)ccc4)(c7ccccc7)=O)ccc3)C8=O)=O)c8cc2)=O)C1=O)=O)[Fr])CCCCC,,,,100,,,,0,,,,,,,,,320
+Journal of the Mexican Chemical Society61.3 (2017): 229-240.,homopolymer,PA,PA2,,[Rb]NC1=CC=C(C(C2=NC(C3=CC=CC=C3)=C(N2)C4=CC=CC=C4)=C1)OC5=CC=C(C=C5)C6=C(N=C(N6)C7=CC=C(C=C7)C(F)(F)F)C8=CC=C(C=C8)OC9=CC=C(C=C9C%10=NC(C%11=CC=CC=C%11)=C(N%10)C%12=CC=CC=C%12)NC(C%13=CC=C(C([Fr])=O)C=C%13)=O,,,,100,,,,0,,,,,,,,,321
+10.1016/j.polymdegradstab.2015.11.003,copolymer,PBT,PBT/CPBA25%,,O=C([Fr])C1=CC=C(C=C1)C(OCCCCO[Rb])=O,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OP([Fr])(C3=CC=CC=C3)=O)C,,75,,,,25,,,,,,,,,,321.8
+10.1080/1023666X.2021.1971835,homopolymer,,Poly(amide-imide)s-1,,Cc1cc(ccc1Oc1ccc(cc1)C=Nc1ccc(cc1)Cc1ccc(cc1)N)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=Nc1ccc(cc1)Cc1ccc(cc1)N=Cc1ccc(cc1)Oc1ccc(cc1C)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=O,,,,100,,,,0,,,,,,,,,323
+10.1002/(SICI)1099-0518(19970915)35:12<2453::AID-POLA15>3.0.CO;2-6,homopolymer,,polyamidophosphate-9,,[Fr]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OC(=O)[Rb],,,,100,,,,0,,,,,,,,,324
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=CC(C(N(C2=CC(N3C(C4=CC(C([Rb])=O)=CC=C4C3=O)=O)=CC=C2)C5=O)=O)=C5C=C1)NC6=C(O)C=C(C7=CC(O)=C(N[Fr])C=C7)C=C6,,,,100,,,,0,,,,,,,,,324
+10.1002/pat.3743,homopolymer,,polyphosphonates_6,,CC(C(=O)O[Fr])[Rb],,,,100,,,,0,,,,,,,,,325
+10.1007/s12039-012-0351-0,homopolymer,,4-(4-aminobenzyl)benzenamine(PA-3),,CCC([C@H](n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)[C@@H](C(CC)C)C(=O)[Rb])C(=O)Nc1cc(N[Fr])cc(c1)C(=O)NCCc1ccc(c(c1)O)O)C,,,,100,,,,0,,,,,,,,,325
+10.1002/(SICI)1099-0518(19970915)35:12<2453::AID-POLA15>3.0.CO;2-6,homopolymer,,polyamidophosphate-6,,[Fr]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OCCOCCOCCOC(=O)[Rb],,,,100,,,,0,,,,,,,,,326
+10.1002/app.23580,homopolymer,,Phosphorous-containing cardo polyesters_P1,,[Fr]Nc1ccc(cc1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)c1cccc(c1)P(=O)(c1cccc(c1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb])c1ccccc1,,,,100,,,,0,,,,,,,,,330
+10.1007/s12039-012-0351-0,homopolymer,,4-(4-aminophenoxy)benzenamine(PA-4),,[Fr]Nc1cc(cc(c1)C(=O)NCCc1ccc(c(c1)O)O)NC(=O)[C@@H](n1c(=O)c2c(c1=O)cc1c(c2)c(=O)n(c1=O)[C@H](C(=O)[Rb])C)C,,,,100,,,,0,,,,,,,,,332
+10.1002/(SICI)1099-0518(19970915)35:12<2453::AID-POLA15>3.0.CO;2-6,homopolymer,,polyamidophosphate-5,,[Fr]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OCCOCCOC(=O)[Rb],,,,100,,,,0,,,,,,,,,335
+10.1016/j.polymer.2016.05.053,homopolymer,,Poly(ether-azomethine)s-4,,COC(=O)CCC(c1ccc(c(c1[Rb])CN(c1ccccc1)C[Fr])O)(c1ccc2c(c1)CN(CO2)c1ccccc1)C,,,,100,,,,0,,,,,,,,,335.3
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=CC=C(N2C(C3=CC(C([Rb])=O)=CC=C3C2=O)=O)C=C1)NC4=C(O)C=CC(C(C5=CC=C(O)C(N[Fr])=C5)(C(F)(F)F)C(F)(F)F)=C4,,,,100,,,,0,,,,,,,,,336
+10.1002/fam.2385,copolymer,PA,PA66-PDPPD3,,O=C(CCCCC([Fr])=O)NCCCCCCN[Rb],O=C(NC1=CC=C(NP(NC2=CC=C(P(NC3=CC=C(P(NC4=CC=C(P(NC5=CC=C(P(NC6=CC=C(N[Rb])C=C6)(C7=CC=CC=C7)=O)C=C5)(C8=CC=CC=C8)=O)C=C4)(C9=CC=CC=C9)=O)C=C3)(C%10=CC=CC=C%10)=O)C=C2)(C%11=CC=CC=C%11)=O)C=C1)CCCCC([Fr])=O,,95.5,,,,4.5,,,,,,,,,,338
+10.1002/pat.1515,homopolymer,,aromatic polyamides 14,,[H]C(C(NC1=CC(C(NC2=CC=C(OC3=CC=C(N[Rb])C=C3)C=C2)=O)=CC(C([Fr])=O)=C1)=O)(N4C(C5C6C7=C(C(C5C4=O)C8=C6C=CC=C8)C=CC=C7)=O)CC9=CC=CC=C9,,,,100,,,,0,,,,,,,,,339
+10.1007/s00289-012-0892-x,homopolymer,PA,polyamides 2 containing pendentN-carbazole group,,O=C(NC1=CC(C2=NC(C3=CC=CC=C3)=C(C4=CC=CC=C4)N2)=C(OC5=CC(C(C(F)(F)F)(C(F)(F)F)C6=CC(OC7=CC=C(N[Rb])C=C7C8=NC(C9=CC=CC=C9)=C(C%10=CC=CC=C%10)N8)=CC=C6)=CC=C5)C=C1)C%11=CC=CC(C([Fr])=O)=C%11,,,,100,,,,0,,,,,,,,,339
+10.1002/app.24667,homopolymer,,poly(benzylidene phosphoramide ester)_4c,,[Rb]C(c1cc(C(N(c2cc(P(c3ccccc3)(c4cc(N5C(c6ccc(C(N7C(CN([Fr])C7=O)=O)=O)cc6C5=O)=O)ccc4)=O)ccc2)C8=O)=O)c8cc1)=O,,,,100,,,,0,,,,,,,,,340
+10.1021/acsami.6b06864,homopolymer,,Polyimide-BAFP,,[Rb]CC(c1ccccc1)[Fr],,,,100,,,,0,,,,,,,,,340
+10.1002/(SICI)1097-4628(19970110)63:2<195::AID-APP7>3.0.CO;2-Q,homopolymer,,methacrylate_DHMP,,[Rb]Oc1c(Br)cc(cc1Br)S(=O)(=O)c1cc(Br)c(c(c1)Br)OC(=O)[Fr],,,,100,,,,0,,,,,,,,,341
+10.1016/j.polymer.2016.05.053,homopolymer,,Poly(ether-azomethine)s-5,,[Fr]CN(c1ccccc1)Cc1c(O)ccc(c1[Rb])C(c1ccc2c(c1)CN(CO2)c1ccccc1)(CCC(=O)OCC12COP(=O)(OC1)OC2)C,,,,100,,,,0,,,,,,,,,341.5
+10.1002/pat.5734,copolymer,PA,PA56-7.8CEPPA,,[Fr]P(CCNCCCCCN[Rb])(C1=CC=CC=C1)=O,O=C([Fr])CCCCC(NCCCCCN[Rb])=O,,,7.8,,,,92.2,,,,,,,,,342
+10.1002/fam.2385,copolymer,PA,PA66-PDPPD2,,O=C(CCCCC([Fr])=O)NCCCCCCN[Rb],O=C(NC1=CC=C(NP(NC2=CC=C(P(NC3=CC=C(P(NC4=CC=C(P(NC5=CC=C(P(NC6=CC=C(N[Rb])C=C6)(C7=CC=CC=C7)=O)C=C5)(C8=CC=CC=C8)=O)C=C4)(C9=CC=CC=C9)=O)C=C3)(C%10=CC=CC=C%10)=O)C=C2)(C%11=CC=CC=C%11)=O)C=C1)CCCCC([Fr])=O,,97,,,,3,,,,,,,,,,342
+https://journals.tubitak.gov.tr/chem/vol30/iss5/12/,homopolymer,PA,Aromatic polyamide,,O=P(C)(C1=CC=CC(NC(C2=CC=C(C(N(C3=CC=C(OC4=CC=C(N5C(C(C=C(C([Fr])=O)C=C6)=C6C5=O)=O)C=C4)C=C3)C7=O)=O)C7=C2)=O)=C1)C8=CC(N[Rb])=CC=C8,,,,100,,,,0,,,,,,,,,342.5
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=CC(N2C(C3=CC(C([Rb])=O)=CC=C3C2=O)=O)=CC=C1)NC4=C(O)C=CC(C(C5=CC=C(O)C(N[Fr])=C5)(C(F)(F)F)C(F)(F)F)=C4,,,,100,,,,0,,,,,,,,,343
+10.1016/j.eurpolymj.2020.109770,homopolymer,,polyimides 4a,,Oc1c(CN(c2ccccc2)C[Fr])c([Rb])c(Sc3ccc(OC4)c(CN4c5ccccc5)c3)cc1,,,,100,,,,0,,,,,,,,,343
+10.1016/j.polymer.2016.05.053,homopolymer,,Poly(ether-azomethine)s-3,,[Fr]CN(c1ccccc1)Cc1c(O)ccc(c1[Rb])C(c1ccc2c(c1)CN(CO2)c1ccccc1)(CCC(=O)O)C,,,,100,,,,0,,,,,,,,,343.6
+10.1021/ma0614693,homopolymer,,,,[Fr]OP(=O)(c1ccccc1)Oc1ccc(cc1)CC(=O)c1ccc(cc1)[Rb],,,,100,,,,0,,,,,,,,,345
+10.1002/app.48687,copolymer,PA,PA66-co-CEPPA,,[Rb]NCCCCCCNC(CCCCC([Fr])=O)=O,O=P([Fr])(C1=CC=CC=C1)CCC([Rb])=O,,94,,,,6,,,,,,,,,,346
+10.1021/sc500548c,homopolymer,,Poly(ether-azomethine)s-6,,C=CCc1cc(OC)c(c(c1[Rb])CN(Cc1ccco1)[Fr])O,,,,100,,,,0,,,,,,,,,349
+10.1002/pat.5734,copolymer,PA,PA56-6.2CEPPA,,[Fr]P(CCNCCCCCN[Rb])(C1=CC=CC=C1)=O,O=C([Fr])CCCCC(NCCCCCN[Rb])=O,,,6.2,,,,93.8,,,,,,,,,349
+10.1021/ma0614693,homopolymer,,,,[Fr]OC(=O)c1cccc(c1)C(=O)Oc1ccc(cc1)CC(=O)c1ccc(cc1)[Rb],,,,100,,,,0,,,,,,,,,350
+Journal of the Mexican Chemical Society61.3 (2017): 229-240.,homopolymer,PA,PA3,,[Rb]NC1=CC=C(C(C2=NC(C3=CC=CC=C3)=C(N2)C4=CC=CC=C4)=C1)OC5=CC=C(C=C5)C6=C(N=C(N6)C7=CC=C(C=C7)C(F)(F)F)C8=CC=C(C=C8)OC9=CC=C(C=C9C%10=NC(C%11=CC=CC=C%11)=C(N%10)C%12=CC=CC=C%12)NC(C%13=NC(C([Fr])=O)=CC=C%13)=O,,,,100,,,,0,,,,,,,,,350
+10.1007/s00289-011-0544-6,homopolymer,,Polydiamines-17,,[Rb]Nc1cccc(c1)P(=O)(c1ccccc1)c1cccc(c1)NC(=O)c1ccc(cc1)OCCCCOc1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,350
+10.1002/app.24667,homopolymer,,poly(benzylidene phosphoramide ester)_4d,,O=C(c1cc(C(N(c2cc(P(c3cc(N4C(c5ccc(C([Rb])=O)cc5C4=O)=O)ccc3)(c6ccccc6)=O)ccc2)C7=O)=O)c7cc1)N8C(C(C)(C)N([Fr])C8=O)=O,,,,100,,,,0,,,,,,,,,350
+10.1016/j.compositesb.2021.108664,copolymer,PTT,PTTP10,,O=C(C1=CC=C(C=C1)C(OCCCO[Rb])=O)[Fr],O=C(C1=CC(C(OCCCO[Rb])=O)=CC(N2C(C3=C(C2=O)C=CC=C3)=O)=C1)[Fr],,,100,,,,10,,,,,,,,,350.4
+10.1177/0954008315580822,homopolymer,,polyphosphonates_9,,[Fr]CN(c1ccccc1)Cc1cc(/C=N/CC/N=C/c2ccc3c(c2)CN(CO3)c2ccccc2)cc(c1O)[Rb],,,,100,,,,0,,,,,,,,,351
+10.1002/pat.5734,copolymer,PA,PA56-4.6CEPPA,,[Fr]P(CCNCCCCCN[Rb])(C1=CC=CC=C1)=O,O=C([Fr])CCCCC(NCCCCCN[Rb])=O,,,4.6,,,,95.4,,,,,,,,,351
+10.1016/j.eurpolymj.2004.03.013,homopolymer,,polyphosphates_7,,S=P([Rb])(Oc1ccc(S(=O)(c2ccc(O[Fr])cc2)=O)cc1)c3ccccc3,,,,100,,,,0,,,,,,,,,353
+10.1016/j.polymdegradstab.2018.05.010,copolymer,polyphosphate,PHFC10,,O=C([Fr])CCP(OCCCCCCO[Rb])(C1=CC=CC=C1)=O,O=C([Fr])C1=CC=C(O1)C(OCCCCCCO[Rb])=O,,,100,,,,10,,,,,,,,,354
+10.1016/j.polymer.2008.06.001,homopolymer,,PA9eI,,[H][C@@](C1C(C2=CC=CC3=CC=CC(C1=O)=C32)=O)(C(NC4=CC(C([Fr])=O)=CC(C(NCCCCCCN[Rb])=O)=C4)=O)C(C)C,,,,100,,,,0,,,,,,,,,355
+10.1002/(SICI)1097-4628(19970110)63:2<195::AID-APP7>3.0.CO;2-Q,homopolymer,,"1,4,6-trioxaspiro[4.4]-2-nonylmethyl acrylate_SOE-AC",,[Fr]Oc1c(Br)cc(cc1Br)C(c1cc(Br)c(c(c1)Br)OC(=O)[Rb])(C)C,,,,100,,,,0,,,,,,,,,358
+10.1080/1023666X.2021.1971835,homopolymer,,Poly(amide-imide)s-2,,Cc1cc(ccc1Oc1ccc(cc1)C=Nc1ccc(cc1)N)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=Nc1ccc(cc1)N=Cc1ccc(cc1)Oc1ccc(cc1C)C1(CCCC1)c1ccc(c(C)c1)Oc1ccc(cc1)C=O,,,,100,,,,0,,,,,,,,,360
+10.1002/app.48687,copolymer,PA,PA66-co-CEPPA,,[Rb]NCCCCCCNC(CCCCC([Fr])=O)=O,O=P([Fr])(C1=CC=CC=C1)CCC([Rb])=O,,96,,,,4,,,,,,,,,,360
+10.1177/0954008315572493,homopolymer,PA,polyamides_PA8a,,[Fr]NCCCCC(=O)NCCCCC(=O)[Rb],,,,100,,,,0,,,,,,,,,361
+10.1002/pat.5734,copolymer,PA,PA56-3.1CEPPA,,[Fr]P(CCNCCCCCN[Rb])(C1=CC=CC=C1)=O,O=C([Fr])CCCCC(NCCCCCN[Rb])=O,,,3.1,,,,96.9,,,,,,,,,361
+10.1007/s10924-022-02466-6,copolymer,PA,PA56-1.2DDP,,O=C(CCCCC(NCCCCCN[Rb])=O)[Fr],O=C(NCCCCCN[Rb])CC(C([Fr])=O)CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O,,,100,,,,1.2,,,,,,,,,361
+10.1002/fam.2385,copolymer,PA,PA66-PDPPD1,,O=C(CCCCC([Fr])=O)NCCCCCCN[Rb],O=C(NC1=CC=C(NP(NC2=CC=C(P(NC3=CC=C(P(NC4=CC=C(P(NC5=CC=C(P(NC6=CC=C(N[Rb])C=C6)(C7=CC=CC=C7)=O)C=C5)(C8=CC=CC=C8)=O)C=C4)(C9=CC=CC=C9)=O)C=C3)(C%10=CC=CC=C%10)=O)C=C2)(C%11=CC=CC=C%11)=O)C=C1)CCCCC([Fr])=O,,98.5,,,,1.5,,,,,,,,,,361
+10.1016/j.polymer.2024.126780,copolymer,PA6,PA6-co-HPI20,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(CCCCCNC(C1=CC=C(C(O)=C1)N2C(C3=CC=C(C=C3C2=O)C([Rb])=O)=O)=O)=O,,,100,,,,20.9,,,,,,,,,361
+10.1016/j.polymdegradstab.2018.05.010,copolymer,polyphosphate,PHFC5,,O=C([Fr])CCP(OCCCCCCO[Rb])(C1=CC=CC=C1)=O,O=C([Fr])C1=CC=C(O1)C(OCCCCCCO[Rb])=O,,,100,,,,5,,,,,,,,,361
+10.1016/j.polymdegradstab.2018.05.010,copolymer,polyphosphate,PHFC7.5,,O=C([Fr])CCP(OCCCCCCO[Rb])(C1=CC=CC=C1)=O,O=C([Fr])C1=CC=C(O1)C(OCCCCCCO[Rb])=O,,,100,,,,7.5,,,,,,,,,361
+10.1021/ie1006917,copolymer,PTT,PTTP10,,O=C([Fr])C1=CC=C(C(OCCCO[Rb])=O)C=C1,[Fr]OC(C(CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O)CC(OCCCO[Rb])=O)=O,,90,,,,10,,,,,,,,,,361.2
+Journal of the Mexican Chemical Society61.3 (2017): 229-240.,homopolymer,PA,PI1,,FC(F)(C1=CC=C(C2=NC(C3=CC=C(OC(C=CC([Fr])=C4)=C4C5=NC(C6=CC=CC=C6)=C(C7=CCCC=C7)N5)C=C3)=C(C8=CC=C(OC9=C(C%10=NC(C%11=CC=CC=C%11)=C(C%12=CCCC=C%12)N%10)C=C(N%13C(C%14C(C%15C%14C%16C(C(C(N%17[Rb])=O)C%18C%17=O)C%18C%15C=C%16)C%13=O)=O)C=C9)C=C8)N2)C=C1)F,,,,100,,,,0,,,,,,,,,362
+10.1016/j.polymdegradstab.2018.05.010,copolymer,polyphosphate,PHF,,O=C([Fr])CCP(OCCCCCCO[Rb])(C1=CC=CC=C1)=O,O=C([Fr])C1=CC=C(O1)C(OCCCCCCO[Rb])=O,,,100,,,,0,,,,,,,,,362
+10.1016/j.polymer.2008.06.001,homopolymer,,PA9cI,,[H][C@@](C1C(C2=CC=CC3=CC=CC(C1=O)=C32)=O)(C(NC4=CC(C([Fr])=O)=CC(C(NC5=CC(N[Rb])=C(C)C=C5)=O)=C4)=O)C(C)C,,,,100,,,,0,,,,,,,,,363
+10.1016/j.polymdegradstab.2018.05.010,copolymer,polyphosphate,PHFC2.5,,O=C([Fr])CCP(OCCCCCCO[Rb])(C1=CC=CC=C1)=O,O=C([Fr])C1=CC=C(O1)C(OCCCCCCO[Rb])=O,,,100,,,,2.5,,,,,,,,,363
+10.1002/app.37610,homopolymer,,PTT,,[Fr]c1ccc(cc1)P(c1ccccc1)[Rb],,,,100,,,,0,,,,,,,,,363.2
+10.1016/j.polymdegradstab.2015.11.003,copolymer,PBT,PBT/CPBA20%,,O=C([Fr])C1=CC=C(C=C1)C(OCCCCO[Rb])=O,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OP([Fr])(C3=CC=CC=C3)=O)C,,80,,,,20,,,,,,,,,,363.5
+10.1021/ie1006917,copolymer,PTT,PTTP5,,O=C([Fr])C1=CC=C(C(OCCCO[Rb])=O)C=C1,[Fr]OC(C(CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O)CC(OCCCO[Rb])=O)=O,,95,,,,5,,,,,,,,,,363.8
+10.1021/ie1006917,homopolymer,,Polycarbonates_CHDM-BuD,,[Fr]OCCCOC(=O)c1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,363.9
+10.1021/ie1006917,copolymer,PTT,PTT,,O=C([Fr])C1=CC=C(C(OCCCO[Rb])=O)C=C1,[Fr]OC(C(CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O)CC(OCCCO[Rb])=O)=O,,100,,,,0,,,,,,,,,,363.9
+10.1016/j.compositesb.2021.108664,copolymer,PTT,PTTN20,,O=C(C1=CC=C(C=C1)C(OCCCO[Rb])=O)[Fr],O=C(C1=CC(C(OCCCO[Rb])=O)=CC(N2C(C3=C(C2=O)C=C(C=C3)C#CC4=CC=CC=C4)=O)=C1)[Fr],,,100,,,,20,,,,,,,,,364.6
+10.1016/j.compositesb.2021.108664,copolymer,PTT,PTT,,O=C(C1=CC=C(C=C1)C(OCCCO[Rb])=O)[Fr],O=C([Fr])C1=CC=C(C#CC2=CC=CC=C2)C=C1C(=O)OCCCO[Rb],,,100,,,,0,,,,,,,,,366.4
+10.1002/app.48687,copolymer,PA,PA66-co-CEPPA,,[Rb]NCCCCCCNC(CCCCC([Fr])=O)=O,O=P([Fr])(C1=CC=CC=C1)CCC([Rb])=O,,98,,,,2,,,,,,,,,,367
+10.1016/j.compositesb.2021.108664,copolymer,PTT,PTTN10,,O=C(C1=CC=C(C=C1)C(OCCCO[Rb])=O)[Fr],O=C(C1=CC(C(OCCCO[Rb])=O)=CC(N2C(C3=C(C2=O)C=C(C=C3)C#CC4=CC=CC=C4)=O)=C1)[Fr],,,100,,,,10,,,,,,,,,367.2
+10.1016/j.polymdegradstab.2015.11.003,copolymer,PBT,PBT/CPBA15%,,O=C([Fr])C1=CC=C(C=C1)C(OCCCCO[Rb])=O,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OP([Fr])(C3=CC=CC=C3)=O)C,,85,,,,15,,,,,,,,,,367.5
+10.1007/s10924-022-02466-6,copolymer,PA,PA56-1.0DDP,,O=C(CCCCC(NCCCCCN[Rb])=O)[Fr],O=C(NCCCCCN[Rb])CC(C([Fr])=O)CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O,,,100,,,,1,,,,,,,,,368
+10.1016/j.compositesb.2021.108664,copolymer,PTT,PTTB10,,O=C(C1=CC=C(C=C1)C(OCCCO[Rb])=O)[Fr],O=C([Fr])C1=CC=C(C#CC2=CC=CC=C2)C=C1C(=O)OCCCO[Rb],,,100,,,,10,,,,,,,,,368.4
+10.1016/j.polymdegradstab.2019.03.004,copolymer,PA6,PA6-co-DPO,,[Fr]C(CCCCCN[Rb])=O,[H]N(C(CC(C([Fr])=O)CP(C1=CC=CC=C1)(C2=CC=CC=C2)=O)=O)CCCCCCCCCCN[Rb],,95,,,,5,,,,,,,,,,369.2
+10.1002/pc.23170,homopolymer,,198,,[Fr]Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(cc1)Nc1ncnc(n1)Nc1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,370
+10.1016/j.polymer.2008.05.013,homopolymer,,PA8d,,[Rb]NC1=CC=C(S(C(C=C2)=CC=C2N(C(C3=CC(C([Fr])=O)=CC(N(C(C4=CC=C(C=C4)N(C([C@](C)(N5C(C6=CC=CC=C6C5=O)=O)[H])=O)[H])=O)[H])=C3)=O)[H])(=O)=O)C=C1,,,,100,,,,0,,,,,,,,,372
+10.1016/j.polymdegradstab.2015.11.003,copolymer,PBT,PBT,,O=C([Fr])C1=CC=C(C=C1)C(OCCCCO[Rb])=O,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OP([Fr])(C3=CC=CC=C3)=O)C,,,100,,,,0,,,,,,,,,372.3
+10.1016/j.polymdegradstab.2019.03.004,copolymer,PA6,PA6-co-DPO,,[Fr]C(CCCCCN[Rb])=O,[H]N(C(CC(C([Fr])=O)CP(C1=CC=CC=C1)(C2=CC=CC=C2)=O)=O)CCCCCCCCCCN[Rb],,96,,,,4,,,,,,,,,,373.3
+10.1016/j.cej.2023.144983,copolymer,PA,PA 6-co-DPA2b,,[Rb]NCCCCCC([Fr])=O,[Rb]C(CCCCCNC(C1=CC(NP(C2=CC=CC=C2)(C3=CC=CC=C3)=O)=CC(C([Fr])=O)=C1)=O)=O,,,100,,,,2,,,,,,,,,373.6
+10.1016/j.polymdegradstab.2019.03.004,copolymer,PA6,PA6-co-DPO,,[Fr]C(CCCCCN[Rb])=O,[H]N(C(CC(C([Fr])=O)CP(C1=CC=CC=C1)(C2=CC=CC=C2)=O)=O)CCCCCCCCCCN[Rb],,97,,,,3,,,,,,,,,,374.1
+10.1007/s10924-022-02466-6,copolymer,PA,PA56-0.5DDP,,O=C(CCCCC(NCCCCCN[Rb])=O)[Fr],O=C(NCCCCCN[Rb])CC(C([Fr])=O)CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O,,,100,,,,0.5,,,,,,,,,375
+10.1016/j.jhazmat.2020.122604,homopolymer,PA,polyamides_PA8d,,[Rb]NCCCCCC(=O)[Fr],,,,100,,,,0,,,,,,,,,375.3
+10.1016/j.polymdegradstab.2017.09.022,copolymer,PET,PET-DMTMI20,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,[Fr]C(C1=CC(C(OCCO[Rb])=O)=CC(N2C(C3C4C=CC(C3C2=O)C4)=O)=C1)=O,,,80,,,,20,,,,,,,,,376
+10.1016/j.polymer.2015.01.030,copolymer,PET,PETI10-K,,O=C(OCCO[Rb])C1=CC=C(C(O[Fr])=O)C=C1,O=C(C1=CC=C(C2)C(P(C3=C2C=CC(C(OCCO[Fr])=O)=C3)(O[K])=O)=C1)O[Rb],,,90,,,,10,,,,,,,,,376
+10.1039/C3PY00503H,copolymer,PA,copolyamide Ⅰ,,[Rb]NC1=CC(NC(C2=CC=CC(C([Fr])=O)=C2)=O)=CC=C1,[Rb]NC1=CC(NC(C2=CC=CC(C([Fr])=O)=N2)=O)=CC=C1,,,90,,,,10,,,,,,,,,377
+10.1295/polymj.PJ2008246,homopolymer,,XXVIII,,*Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)Cc2ccccc2)cc(c1)C(=O)*,,,,100,,,,0,,,,,,,,,378
+10.1016/j.cej.2023.144983,copolymer,PA,PA 6-co-DPA1c,,[Rb]NCCCCCC([Fr])=O,[Rb]C(CCCCCNC(C1=CC(NP(C2=CC=CC=C2)(C3=CC=CC=C3)=O)=CC(C([Fr])=O)=C1)=O)=O,,,100,,,,1,,,,,,,,,379.1
+10.1039/C0PY00103A,homopolymer,PA,PA4a,,[Fr]C(C1=CC(NC2=CC=CC(N[Rb])=C2)=CC(NC3=NNC(C4=CC=CC=C4)=N3)=C1)=O,,,,100,,,,0,,,,,,,,,380
+10.1002/app.24667,homopolymer,,poly(benzylidene phosphoramide ester)_4e,,CCC1(N(C(N(C(c2cc(C(N(c3cc(P(c4cc(N5C(c6ccc(C([Rb])=O)cc6C5=O)=O)ccc4)(c7ccccc7)=O)ccc3)C8=O)=O)c8cc2)=O)C1=O)=O)[Fr])C,,,,100,,,,0,,,,,,,,,380
+10.1016/j.polymdegradstab.2017.09.022,copolymer,PET,PET-DMTMI10,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,[Fr]C(C1=CC(C(OCCO[Rb])=O)=CC(N2C(C3C4C=CC(C3C2=O)C4)=O)=C1)=O,,,90,,,,10,,,,,,,,,381
+10.1016/j.eurpolymj.2020.110230,copolymer,PET,NBA15PET,,O=C([Fr])C1=CC=C(C=C1)C(OCCO[Rb])=O,O=C(C1=CC(C([Fr])=O)=CC(/N=C/C2=CC=C(C=C2)[N+]([O-])=O)=C1)OCCO[Rb],,,100,,,,11.8,,,,,,,,,381
+10.1016/j.polymdegradstab.2019.03.004,copolymer,PA6,PA6-co-DPO,,[Fr]C(CCCCCN[Rb])=O,[H]N(C(CC(C([Fr])=O)CP(C1=CC=CC=C1)(C2=CC=CC=C2)=O)=O)CCCCCCCCCCN[Rb],,98,,,,2,,,,,,,,,,381.6
+10.1039/C5PY01938A,homopolymer,PET,,,[Rb]OCCOc1ccc(cc1)Oc1ccc(cc1)OCCOC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,383
+10.1039/c2jm34376b,copolymer,PET,Poly(ethylene terephthalate) (PET),,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=C(C1=CC=C(C#CC2=CC=CC=C2)C=C1C(OCCO[Rb])=O)[Fr],,,95,,,,5,,,,,,,,,383.2
+10.1007/s00289-015-1587-x,homopolymer,PA,PA8g,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC=C(C5=CC=C(N[Rb])C=C5)C=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,384
+10.1007/s00289-015-1587-x,homopolymer,PA,polyamides-PA8g,,[Fr]Nc1ccc(cc1)c1ccc(cc1)NC(=O)c1cc(N=C(C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)C)O)cc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,384
+10.1016/j.polymdegradstab.2017.09.022,copolymer,PET,PET-DMTMI5,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,[Fr]C(C1=CC(C(OCCO[Rb])=O)=CC(N2C(C3C4C=CC(C3C2=O)C4)=O)=C1)=O,,,95,,,,5,,,,,,,,,384
+10.1039/C3PY01030A,copolymer,PET,PETI10,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P1([O-])C2=CC(C([Fr])=O)=CC=C2CC3=CC=C(C(OCCO[Rb])=O)C=C13.[Na+],,,100,,,,9.09,,,,,,,,,384
+10.1039/C3PY00503H,copolymer,PA,copolyamide Ⅲ,,[Rb]NC1=CC(NC(C2=CC=CC(C([Fr])=O)=N2)=O)=CC=C1,[Rb]NC1=CC(NC(C2=CC(C3=CN=C(N4CCCCC4)C=C3)=CC(C([Fr])=O)=N2)=O)=CC=C1,,,90,,,,10,,,,,,,,,384
+10.1295/polymj.PJ2008246,homopolymer,,XXIV,,*Nc1cccc2c1cccc2NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)Cc2ccccc2)cc(c1)C(=O)*,,,,100,,,,0,,,,,,,,,385
+10.1039/C0PY00103A,homopolymer,PA,PA4d,,[H]N(C1=CC=C(C2=NC(NC3=CC=C(C(NC4=CC=CC(N[Rb])=C4)=O)C=C3)=NN2)C=C1)C(C5=CC(C(N(C6=CC=C(C7=NC(NC8=CC=C(C=C8)C([Fr])=O)=NN7)C=C6)[H])=O)=CC=C5)=O,,,,100,,,,0,,,,,,,,,385
+10.1016/j.polymdegradstab.2014.06.003,homopolymer,,poly (butylene succinate)_PBS,,[Rb]OCc1ccc(cc1)COC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,385
+10.1016/j.eurpolymj.2020.110230,copolymer,PET,NBA10PET,,O=C([Fr])C1=CC=C(C=C1)C(OCCO[Rb])=O,O=C(C1=CC(C([Fr])=O)=CC(/N=C/C2=CC=C(C=C2)[N+]([O-])=O)=C1)OCCO[Rb],,,100,,,,7.9,,,,,,,,,385
+10.1002/pola.22636,copolymer,PET,PPETI10,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,OCCOC(CCP(C1=CC=CC=C1)([O-])=O)=O.[Na+],,,90,,,,10,,,,,,,,,385.3
+10.1016/j.polymdegradstab.2014.06.003,copolymer,PCT,PCTD5,,[Fr]C(c1ccc(C(OCC(CC2)CCC2CO[Rb])=O)cc1)=O,O=C([Fr])c1ccc(C(OCCOc2cc(P3(Oc4c(c5ccccc53)cccc4)=O)c(OCCO[Rb])cc2)=O)cc1,,,95,,,,5,,,,,,,,,385.4
+10.1016/j.polymdegradstab.2014.06.003,copolymer,PCT,PCTD10,,[Fr]C(c1ccc(C(OCC(CC2)CCC2CO[Rb])=O)cc1)=O,O=C([Fr])c1ccc(C(OCCOc2cc(P3(Oc4c(c5ccccc53)cccc4)=O)c(OCCO[Rb])cc2)=O)cc1,,,90,,,,10,,,,,,,,,385.8
+10.1007/s00289-015-1587-x,homopolymer,PA,PA8f,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC=C(CC5=CC=C(N[Rb])C=C5)C=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,387
+10.1007/s00289-015-1587-x,homopolymer,PA,polyamides_PA8f,,[Fr]Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)C)cc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,387
+10.1007/s00289-012-0892-x,homopolymer,PA,PAEb2,,O=C(C1=CC=CC(C([Fr])=O)=C1)NC(C=C2)=CC(C3=NC(C4=CC=CC=C4)=C(N3)C5=CC=CC=C5)=C2OC6=CC(C(C7=CC(OC(C(C8=NC(C9=CC=CC=C9)=C(N8)C%10=CC=CC=C%10)=C%11)=CC=C%11N[Rb])=CC=C7)=O)=CC=C6,,,,100,,,,0,,,,,,,,,387
+10.1039/C3PY01030A,copolymer,PET,PETI5,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P1([O-])C2=CC(C([Fr])=O)=CC=C2CC3=CC=C(C(OCCO[Rb])=O)C=C13.[Na+],,,100,,,,4.76,,,,,,,,,387
+10.1016/j.polymdegradstab.2014.06.003,copolymer,PCT,PCTD20,,[Fr]C(c1ccc(C(OCC(CC2)CCC2CO[Rb])=O)cc1)=O,O=C([Fr])c1ccc(C(OCCOc2cc(P3(Oc4c(c5ccccc53)cccc4)=O)c(OCCO[Rb])cc2)=O)cc1,,,80,,,,20,,,,,,,,,387
+10.1016/j.eurpolymj.2020.109770,homopolymer,,polyimides 4b,,[Fr]N(Cc1c(O)ccc(c1[Rb])Sc1ccc(c(c1[Fr])CN(Cc1ccco1)[Rb])O)Cc1ccco1,,,,100,,,,0,,,,,,,,,388
+10.1016/j.polymer.2015.01.030,copolymer,PET,PETI3-K,,O=C(OCCO[Rb])C1=CC=C(C(O[Fr])=O)C=C1,O=C(C1=CC=C(C2)C(P(C3=C2C=CC(C(OCCO[Fr])=O)=C3)(O[K])=O)=C1)O[Rb],,,97,,,,3,,,,,,,,,388
+10.1016/j.polymer.2024.126780,copolymer,PA6,PA6,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(CCCCCNC(C1=CC=C(C(O)=C1)N2C(C3=CC=C(C=C3C2=O)C([Rb])=O)=O)=O)=O,,,100,,,,0,,,,,,,,,388.1
+10.1039/C5PY01938A,homopolymer,PET,,,[Rb]OCCOc1ccc(cc1)C(=O)c1ccc(cc1)OCCOC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,388.9
+10.1016/j.polymer.2015.01.030,copolymer,PET,PETI5-K,,O=C(OCCO[Rb])C1=CC=C(C(O[Fr])=O)C=C1,O=C(C1=CC=C(C2)C(P(C3=C2C=CC(C(OCCO[Fr])=O)=C3)(O[K])=O)=C1)O[Rb],,,95,,,,5,,,,,,,,,389
+10.1039/C0PY00103A,homopolymer,PA,PA4b,,[Fr]C(C1=CC(NC2=CC=C(N[Rb])C=C2)=CC(NC3=NNC(C4=CC=CC=C4)=N3)=C1)=O,,,,100,,,,0,,,,,,,,,390
+10.1016/j.jhazmat.2020.122040,copolymer,PET,EKE5PET,,O=C([Fr])C1=CC=C(C(OCCO[Rb])=O)C=C1,O=C(C1=CC=C(OC2=CC=C(OCCOC(C(C=C3)=CC=C3C([Fr])=O)=O)C=C2)C=C1)C4=CC=C(OC5=CC=C(OCCO[Rb])C=C5)C=C4,,,100,,,,5,,,,,,,,,390
+10.1007/s00289-015-1587-x,homopolymer,PA,PA8h,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC=C(OC5=CC=C(N[Rb])C=C5)C=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,391
+10.1007/s00289-015-1587-x,homopolymer,PA,polyamides_PA8h,,[Fr]Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)NC(=O)c1cc(N=C(C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)C)O)cc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,391
+10.1016/j.polymer.2008.06.001,homopolymer,,BHPPE-2,,[H][C@@](C1C(C2=CC=CC3=CC=CC(C1=O)=C32)=O)(C(NC4=CC(C([Fr])=O)=CC(C(NC5=CC=C(CC6=CC=C(N[Rb])C=C6)C=C5)=O)=C4)=O)C(C)C,,,,100,,,,0,,,,,,,,,391
+10.1039/c6py00183a,homopolymer,,Phosphine_Poly(amide-imide)s-9a,,[Rb]OCCOC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,391
+10.1016/j.polymdegradstab.2017.09.022,copolymer,PET,PET-DMTMI0,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,[Fr]C(C1=CC(C(OCCO[Rb])=O)=CC(N2C(C3C4C=CC(C3C2=O)C4)=O)=C1)=O,,,100,,,,0,,,,,,,,,391
+10.1002/pola.22636,copolymer,PET,PPETI5,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,OCCOC(CCP(C1=CC=CC=C1)([O-])=O)=O.[Na+],,,95,,,,5,,,,,,,,,391
+10.1016/j.jhazmat.2020.122040,copolymer,PET,EKE10PET,,O=C([Fr])C1=CC=C(C(OCCO[Rb])=O)C=C1,O=C(C1=CC=C(OC2=CC=C(OCCOC(C(C=C3)=CC=C3C([Fr])=O)=O)C=C2)C=C1)C4=CC=C(OC5=CC=C(OCCO[Rb])C=C5)C=C4,,,100,,,,10,,,,,,,,,391
+10.1016/j.polymer.2015.01.030,copolymer,PET,PETP3,,O=C(C1=CC=C(C=C1)C(O[Fr])=O)OCCO[Rb],O=C(C1=CC2=C(OC3=C(P2(C4=CC=CC=C4)(C5=CC=CC=C5)=O)C=C(C=C3)C(OCCO[Fr])=O)C=C1)OCCO[Rb],,,97,,,,3,,,,,,,,,391
+10.1002/pola.22636,copolymer,PET,PPETI3,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,OCCOC(CCP(C1=CC=CC=C1)([O-])=O)=O.[Na+],,,97,,,,3,,,,,,,,,391.9
+10.1016/j.jhazmat.2020.122040,copolymer,PET,EKE20PET,,O=C([Fr])C1=CC=C(C(OCCO[Rb])=O)C=C1,O=C(C1=CC=C(OC2=CC=C(OCCOC(C(C=C3)=CC=C3C([Fr])=O)=O)C=C2)C=C1)C4=CC=C(OC5=CC=C(OCCO[Rb])C=C5)C=C4,,,100,,,,15,,,,,,,,,392
+10.1016/j.eurpolymj.2020.110230,copolymer,PET,NBA5PET,,O=C([Fr])C1=CC=C(C=C1)C(OCCO[Rb])=O,O=C(C1=CC(C([Fr])=O)=CC(/N=C/C2=CC=C(C=C2)[N+]([O-])=O)=C1)OCCO[Rb],,,100,,,,3.6,,,,,,,,,393
+10.1016/j.polymer.2015.01.030,copolymer,PET,PETP5,,O=C(C1=CC=C(C=C1)C(O[Fr])=O)OCCO[Rb],O=C(C1=CC2=C(OC3=C(P2(C4=CC=CC=C4)(C5=CC=CC=C5)=O)C=C(C=C3)C(OCCO[Fr])=O)C=C1)OCCO[Rb],,,95,,,,5,,,,,,,,,393
+10.1002/pola.22636,copolymer,PET,PPETI1,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,OCCOC(CCP(C1=CC=CC=C1)([O-])=O)=O.[Na+],,,99,,,,1,,,,,,,,,393.8
+10.1002/(SICI)1097-4628(19970110)63:2<195::AID-APP7>3.0.CO;2-Q,homopolymer,,"butanediamine_1,4-F2IP",,[Fr]Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)[Rb])(C)C,,,,100,,,,0,,,,,,,,,394
+10.1002/pat.5734,copolymer,PA,PA56,,[Fr]C(CCCCC([Rb])=O)=O,[Rb]NCCCCCN[Fr],,,50,,,,50,,,,,,,,,394
+10.1007/s10924-022-02466-6,copolymer,PA,PA56,,O=C(CCCCC(NCCCCCN[Rb])=O)[Fr],O=C(NCCCCCN[Rb])CC(C([Fr])=O)CP1(OC2=C(C3=C1C=CC=C3)C=CC=C2)=O,,,100,,,,0,,,,,,,,,394
+10.1039/C3PY01030A,copolymer,PET,PETI3,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P1([O-])C2=CC(C([Fr])=O)=CC=C2CC3=CC=C(C(OCCO[Rb])=O)C=C13.[Na+],,,100,,,,2.91,,,,,,,,,394
+10.1007/s10924-022-02466-6,copolymer,PA,Polyamide56(PA56),,[Rb]NCCCCCNC(CCCCC([Fr])=O)=O,O=C(CC(CP1(OC2=C(C=CC=C2)C3=C1C=CC=C3)=O)C([Fr])=O)NCCCCCN[Rb],,,100,,,,0,,,,,,,,,394
+10.1016/j.polymer.2024.126780,copolymer,PA6,PA6-co-HPI10,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(CCCCCNC(C1=CC=C(C(O)=C1)N2C(C3=CC=C(C=C3C2=O)C([Rb])=O)=O)=O)=O,,,100,,,,5.1,,,,,,,,,394.1
+10.1007/s00289-015-1587-x,homopolymer,PA,PA10gI,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC=C(N[Rb])C=C4C)=O)=C1)=O,,,,100,,,,0,,,,,,,,,395
+10.1177/0954008315580822,homopolymer,,polyphosphonates_11,,[Fr]CN(c1ccccn1)Cc1c(O)ccc(c1[Rb])/C=N/CC/N=C/c1ccc2c(c1)CN(CO2)c1ccccn1,,,,100,,,,0,,,,,,,,,395
+10.1007/s00289-015-1587-x,homopolymer,PA,PA7,,[Fr]Nc1ccc(c(c1)C)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)C)cc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,395
+10.1039/C3PY01030A,copolymer,PET,PETI1,,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P1([O-])C2=CC(C([Fr])=O)=CC=C2CC3=CC=C(C(OCCO[Rb])=O)C=C13.[Na+],,,100,,,,0.99,,,,,,,,,395
+10.1016/j.polymer.2015.01.030,copolymer,PET,PETP10,,O=C(C1=CC=C(C=C1)C(O[Fr])=O)OCCO[Rb],O=C(C1=CC2=C(OC3=C(P2(C4=CC=CC=C4)(C5=CC=CC=C5)=O)C=C(C=C3)C(OCCO[Fr])=O)C=C1)OCCO[Rb],,,90,,,,10,,,,,,,,,395
+10.1039/C3PY00503H,copolymer,PA,copolyamide Ⅱ,,[Rb]NC1=CC(NC(C2=CC=CC(C([Fr])=O)=C2)=O)=CC=C1,[Rb]NC1=CC(NC(C2=CC(C3=CN=C(N4CCCCC4)C=C3)=CC(C([Fr])=O)=N2)=O)=CC=C1,,,90,,,,10,,,,,,,,,396
+10.1016/j.polymer.2024.126780,copolymer,PA6,PA6-co-HPI15,,[Fr]C(CCCCCN[Rb])=O,[Fr]C(CCCCCNC(C1=CC=C(C(O)=C1)N2C(C3=CC=C(C=C3C2=O)C([Rb])=O)=O)=O)=O,,,100,,,,10.5,,,,,,,,,396.8
+10.1002/(SICI)1097-4628(19970110)63:2<195::AID-APP7>3.0.CO;2-Q,homopolymer,,E-PHBV,,[Fr]Oc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)OC(=O)[Rb],,,,100,,,,0,,,,,,,,,397
+10.1007/s00289-015-1587-x,homopolymer,PA,PA8e,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=C5C(C(N[Rb])=CC=C5)=CC=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,398
+10.1007/s00289-015-1587-x,homopolymer,PA,polyamides_PA8e,,[Fr]Nc1cccc2c1cccc2NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)C)cc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,398
+10.1039/C0PY00103A,homopolymer,PA,PA4c,,[Fr]C(C(C=C1)=CC=C1NC2=NNC(C(C=C3)=CC=C3N[Rb])=N2)=O,,,,100,,,,0,,,,,,,,,400
+10.1007/s00289-015-1587-x,homopolymer,PA,PA10cI,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC=C(S(C5=CC=C(N[Rb])C=C5)(=O)=O)C=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,400
+10.1002/app.24667,homopolymer,,Polyoxymethylene_POM,,CCCCC1(N(C(N(C(c2cc(C(N(c3cc(P(c4cc(N5C(c6ccc(C([Rb])=O)cc6C5=O)=O)ccc4)(c7ccccc7)=O)ccc3)C8=O)=O)c8cc2)=O)C1=O)=O)[Fr])CCCC,,,,100,,,,0,,,,,,,,,400
+10.1016/j.eurpolymj.2020.110230,copolymer,PET,PET,,O=C([Fr])C1=CC=C(C=C1)C(OCCO[Rb])=O,O=C(C1=CC(C([Fr])=O)=CC(/N=C/C2=CC=C(C=C2)[N+]([O-])=O)=C1)OCCO[Rb],,,100,,,,0,,,,,,,,,401
+10.1002/(SICI)1097-4628(19970110)63:2<195::AID-APP7>3.0.CO;2-Q,homopolymer,,acryloxyethyl phosphate_BPAAEP,,[Fr]Oc1c(Br)cc(cc1Br)C(C(F)(F)F)(C(F)(F)F)c1cc(Br)c(c(c1)Br)OC(=O)[Rb],,,,100,,,,0,,,,,,,,,402
+10.1016/j.polymer.2008.05.013,homopolymer,,PA8c,,[Rb]NC(C=C1)=CC=C1C(C=C2)=CC=C2N(C(C3=CC(C([Fr])=O)=CC(N(C(C4=CC=C(C=C4)N(C([C@](C)(N5C(C6=CC=CC=C6C5=O)=O)[H])=O)[H])=O)[H])=C3)=O)[H],,,,100,,,,0,,,,,,,,,404
+10.1016/j.aiepr.2022.12.004,homopolymer,,PA10T,,[Fr]OC1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=C(C=C3)OC4=CC=C(C=C4)C(NCCNC(C5=CC=C(C=C5)[Rb])=O)=O)C,,,,100,,,,0,,,,,,,,,405
+10.1039/C5PY01938A,homopolymer,PET,,,[Rb]OCCOc1ccc(cc1)Oc1ccc(cc1)Oc1ccc(cc1)OCCOC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,405
+10.1007/s00289-015-1587-x,homopolymer,PA,aromatic polyamides 13,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC=C(N[Rb])C=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,406
+10.1007/s00289-015-1587-x,homopolymer,PA,polyamides-1,,[Fr]Nc1ccc(cc1)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)C)cc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,406
+10.1039/C5PY01938A,homopolymer,PET,,,[Rb]OCCOc1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)Oc1ccc(cc1)OCCOC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,406.4
+10.1016/j.polymer.2015.11.036,homopolymer,,"N,N'-(3,3'-Diphenylphenylphosphine oxide)bistrimellitimide diacid chloride 7_9e",,[Fr]CC(c1ccc(cc1)N1COc2c(C1)cccc2)[Rb],,,,100,,,,0,,,,,,,,,407
+10.1016/j.polymer.2008.06.001,homopolymer,,BHPPE-4,,[H][C@@](C1C(C2=CC=CC3=CC=CC(C1=O)=C32)=O)(C(NC4=CC(C([Fr])=O)=CC(C(NC5CC(CN[Rb])(C)CC(C)(C)C5)=O)=C4)=O)C(C)C,,,,100,,,,0,,,,,,,,,407
+10.1016/j.matchemphys.2012.02.046,copolymer,PS,So-coPS25,,[Rb]CC(c1ccccc1)[Fr],O=C(OCCN(CP(OC)(OC)=O)CP(OC)(OC)=O)C([Fr])C[Rb],,,92.49,,,,7.51,,,,,,,,,407
+10.1016/j.matchemphys.2012.02.046,copolymer,PS,So-coPS30,,[Rb]CC(c1ccccc1)[Fr],O=C(OCCN(CP(OC)(OC)=O)CP(OC)(OC)=O)C([Fr])C[Rb],,,90.2,,,,9.8,,,,,,,,,407
+10.1016/j.matchemphys.2012.02.046,copolymer,PS,So-coPS20,,[Rb]CC(c1ccccc1)[Fr],O=C(OCCN(CP(OC)(OC)=O)CP(OC)(OC)=O)C([Fr])C[Rb],,,94.55,,,,5.45,,,,,,,,,410
+10.1002/(SICI)1097-4628(19990404)72:1<109::AID-APP12>3.0.CO;2-Q,copolymer,PET,PET-co-PEDDP(PA30),,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P(C1=CC=CC=C12)(CC(CC(OCCO[Rb])=O)C([Fr])=O)OC3=C2C=CC=C3,,,77.4,,,,22.6,,,,,,,,,413
+10.1016/j.aiepr.2022.12.004,homopolymer,,DPA-Boz,,[Fr]OC1=CC=C(C(C2=CC=C(OC3=CC=C(C(NCCCCNC(C4=CC=C([Rb])C=C4)=O)=O)C=C3)C=C2)(C)C5=CC=CC=C5)C=C1,,,,100,,,,0,,,,,,,,,417
+10.1007/s10965-017-1184-9,homopolymer,,aramides1,,[Fr]C(C1=CC=C(C=C1)NC2=NC(N3CCOCC3)=NC(NC4=CC=C(C=C4)C(NC5=CC=C(S(C6=CC=C(N[Rb])C=C6)(=O)=O)C=C5)=O)=N2)=O,,,,100,,,,0,,,,,,,,,418
+10.1007/s10965-017-1184-9,homopolymer,,polyamide-phosphate esters_POAD-APC_1,,[Rb]Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)NC(=O)c1ccc(cc1)Nc1nc(Nc2ccc(cc2)C(=O)[Fr])nc(n1)N1CCOCC1,,,,100,,,,0,,,,,,,,,418
+10.1295/polymj.PJ2008246,homopolymer,,,,*Nc1cccc(c1)NC(=O)c1cc(cc(c1)C(=O)*)NC(=O)C(N1C(=O)c2c(C1=O)c(Br)c(c(c2Br)Br)Br)Cc1ccccc1,,,,100,,,,0,,,,,,,,,418.9348619
+10.1002/(SICI)1097-4628(19990404)72:1<109::AID-APP12>3.0.CO;2-Q,copolymer,PET,PET-co-PEDDP(PA20),,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P(C1=CC=CC=C12)(CC(CC(OCCO[Rb])=O)C([Fr])=O)OC3=C2C=CC=C3,,,85,,,,15,,,,,,,,,419
+10.1002/macp.201500121,homopolymer,,,,[Fr]OCCCCOC(=O)C(CP1(=O)Oc2ccccc2c2c1cccc2)CC(=O)[Rb],,,,100,,,,0,,,,,,,,,420.2057184
+10.1080/10601325.2020.1736944,homopolymer,,,,[Fr]c1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)c1ccc2c(c1)C(=O)N(C2=O)[Rb],,,,100,,,,0,,,,,,,,,420.5523156
+10.1080/10601325.2020.1736944,homopolymer,,,,[Fr]c1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)Oc1ccc(cc1)Oc1ccc2c(c1)C(=O)C(C2=O)[Rb],,,,100,,,,0,,,,,,,,,420.667848
+10.1080/10601325.2020.1736944,homopolymer,,,,[Fr]c1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)Sc1ccc2c(c1)C(=O)C(C2=O)[Rb],,,,100,,,,0,,,,,,,,,420.7833804
+10.1080/10601325.2020.1736944,homopolymer,,,,[Fr]c1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)Oc1ccc2c(c1)C(=O)C(C2=O)[Rb],,,,100,,,,0,,,,,,,,,420.8989128
+10.1080/10601325.2020.1736944,homopolymer,,,,[Fr]c1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)C(C(F)(F)F)(C(F)(F)F)c1ccc2c(c1)C(=O)C(C2=O)[Rb],,,,100,,,,0,,,,,,,,,421.0144452
+10.1016/j.matchemphys.2012.02.046,copolymer,PS,So-coPS10,,[Rb]CC(c1ccccc1)[Fr],O=C(OCCN(CP(OC)(OC)=O)CP(OC)(OC)=O)C([Fr])C[Rb],,,97.74,,,,2.26,,,,,,,,,423
+10.1007/s11696-020-01494-7,homopolymer,,polyamides_FDA-TPC,,[Fr]C1=CC=C(C(NC2=CC=C(OC3=CC=C(C(C)(C)C4=CC=C(OC5=CC=C(NC(C6=CC=C(N7C(C8C(C9=CC=C%10C%11=C9C8=CC=C%11C%12=CC=C%13C%14=C%12C%10=CC=C%14C%15C%13C(N([Rb])C%15=O)=O)C7=O)=O)C=C6)=O)C=C5)C=C4)C=C3)C=C2)=O)C=C1,,,,100,,,,0,,,,,,,,,425
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,acrylated benzenephosphonates_DABP,,[Fr]Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)P(=O)(c1ccc(cc1)[Rb])c1ccccc1,,,,100,,,,0,,,,,,,,,425
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,polyphosphates-3,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1cccc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,426
+10.1002/(SICI)1097-4628(19990404)72:1<109::AID-APP12>3.0.CO;2-Q,copolymer,PET,PET-co-PEDDP(PA12),,O=C([Fr])C1=CC=C(C(=O)OCCO[Rb])C=C1,O=P(C1=CC=CC=C12)(CC(CC(OCCO[Rb])=O)C([Fr])=O)OC3=C2C=CC=C3,,,92.1,,,,7.9,,,,,,,,,426
+10.1016/j.jfluchem.2016.03.016,homopolymer,,PBO5,,[Fr]c1cccc(c1)P(=O)(c1cccc(c1)N1C(=O)C(C1=O)c1ccc(cc1)C1C(=O)N(C1=O)[Rb])CCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,,,,100,,,,0,,,,,,,,,427
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,polyphosphates-5,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,428
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,CPD/BP,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1ccc(cc1)C(=O)c1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,429
+10.1016/j.jfluchem.2016.03.016,homopolymer,,PBO2,,[Rb]c1cccc(c1)P(=O)(C(CC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)c1cccc(c1)N1C(=O)C(C1=O)c1ccc(cc1)Oc1ccc(cc1)C1C(=O)N(C1=O)[Fr],,,,100,,,,0,,,,,,,,,430
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,polyphosphates-4,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,431
+10.1016/j.compositesb.2019.107737,homopolymer,,Poly(ether-azomethine)s-1,,[Rb]NCCCCCCCCCCNC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,431.2
+10.1007/s10965-021-02676-x,homopolymer,,PPD/BACl,,[Rb]N1C(=O)C2C(C1=O)CC1C(C2)C(=O)N(C1=O)c1ccc(cc1)Oc1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,431.6
+10.1002/pat.5153,homopolymer,,,,O=C1N(C2=CC=C(OC3=CC=C([Fr])C=C3)C=C2)C(C4C1CC(C(N([Rb])C5=O)=O)C5C4)=O,,,,100,,,,0,,,,,,,,,431.6
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,CPD/BPA,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1ccc2c(c1)ccc(c2)C(=O)[Rb],,,,100,,,,0,,,,,,,,,432
+10.1016/j.jfluchem.2016.03.016,homopolymer,,PBO4,,[Fr]c1cccc(c1)P(=O)(C(CC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)c1cccc(c1)N1C(=O)C(C1=O)c1ccc(cc1)C(=O)c1ccc(cc1)C1C(=O)N(C1=O)[Rb],,,,100,,,,0,,,,,,,,,435
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,polyphosphates-2,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,435
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,siloxane_P(DOPO-VTES),,COc1ccc(cc1)P(=O)(c1ccc(c(c1)C(F)(F)F)[Rb])c1ccc(c(c1)C(F)(F)F)Oc1ccc(cc1)C(c1ccc(cc1)O[Fr])(C)C,,,,100,,,,0,,,,,,,,,435
+10.1295/polymj.PJ2008246,homopolymer,,XXIX,,*Nc1ccc(cc1)c1ccc(cc1)NC(=O)c1cc(NC(=O)C(N2C(=O)c3c(C2=O)c(Br)c(c(c3Br)Br)Br)Cc2ccccc2)cc(c1)C(=O)*,,,,100,,,,0,,,,,,,,,436
+10.1007/s11696-020-01494-7,homopolymer,,phosphine oxide-aromatic polyethers_P6,,[Rb]c1ccc(cc1)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)N=C(c1ccc(cc1)N1C(=O)C2C(C1=O)c1c2ccc(c1)Oc1ccc2c(c1)C1C2C(=O)N(C1=O)[Fr])O)(C)C,,,,100,,,,0,,,,,,,,,436
+10.1002/pat.1237,homopolymer,,polypropylene(PP),,O=C(c1ccc2c(c1)CN(C2)CCCCCCN1Cc2c(C1)ccc(c2)C(=O)Oc1ccc(cc1)C(=O)[Rb])Oc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,437
+10.1007/s10965-006-0082-3,copolymer,PC,PC-co-ODOPB1,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C2=CC=C(O[Rb])C=C2)C,O=P1(C2=C(C3=C(O1)C=CC=C3)C=CC=C2)C(C=C4O[Rb])=C(C=C4)OC([Fr])=O,,97.7,,,,2.3,,,,,,,,,,437
+10.1007/s10965-017-1184-9,homopolymer,,aramides2,,[Fr]C(C1=CC=C(C=C1)NC2=NC(N3CCOCC3)=NC(NC4=CC=C(C=C4)C(NC5=CC=C(OC6=CC=C(N[Rb])C=C6)C=C5)=O)=N2)=O,,,,100,,,,0,,,,,,,,,439
+10.1016/j.jfluchem.2016.03.016,homopolymer,,PBO3,,[Fr]c1cccc(c1)P(=O)(c1cccc(c1)N1C(=O)C(C1=O)c1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)C1C(=O)N(C1=O)[Rb])CCC(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,,,,100,,,,0,,,,,,,,,439
+10.1007/s10965-017-1184-9,homopolymer,,polyamide-phosphate esters_POAD-APC_2,,[Fr]Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(cc1)Nc1nc(Nc2ccc(cc2)C(=O)[Rb])nc(n1)N1CCOCC1,,,,100,,,,0,,,,,,,,,439
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=CC(C(N(C2=CC(N3C(C4=CC(C([Rb])=O)=CC=C4C3=O)=O)=CC=C2)C5=O)=O)=C5C=C1)NC6=C(O)C=CC(C(C7=CC=C(O)C(N[Fr])=C7)(C(F)(F)F)C(F)(F)F)=C6,,,,100,,,,0,,,,,,,,,439
+10.1007/s00289-015-1488-z,homopolymer,,PPD/BrBPA,,[Fr]c1ccc(cc1)OCc1nnn(c1)CCCn1nnc(c1)COc1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)c1ccc2c(c1)C(=O)N(C2=O)[Rb],,,,100,,,,0,,,,,,,,,441
+10.1016/j.polymdegradstab.2010.03.005,homopolymer,,,,[Fr]O[SiH](CCP1(=O)Oc2ccccc2c2c1cccc2)[Rb],,,,100,,,,0,,,,,,,,,443
+10.1007/s10118-015-1557-7,homopolymer,,"poly 3-(4-ethenylphenyl)-3,4-dihydro-2H-1,3-benzoxazine (PVBOZN)",,[Rb]C1=CC=C(NC(NC(C2=CC=CC(C(NC(NC3=CC=C(N4C(C5=CC=C(C(C(F)(F)F)(C6=CC=C7C(C(N([Fr])C7=O)=O)=C6)C(F)(F)F)C=C5C4=O)=O)C=C3)=S)=O)=N2)=O)=S)C=C1,,,,100,,,,0,,,,,,,,,443
+10.1021/acsami.0c20537,homopolymer,,Polydiamines-15,,N#COc1cc(cc(c1)Cc1cc([Fr])cc(c1)OC#N)Cc1cc([Rb])cc(c1)OC#N,,,,100,,,,0,,,,,,,,,443.9
+10.1007/s10965-006-0082-3,copolymer,PC,PC-co-ODOPB2,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C2=CC=C(O[Rb])C=C2)C,O=P1(C2=C(C3=C(O1)C=CC=C3)C=CC=C2)C(C=C4O[Rb])=C(C=C4)OC([Fr])=O,,96.6,,,,3.4,,,,,,,,,,445
+10.1007/s10965-006-0082-3,copolymer,PC,PC-co-ODOPB3,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C2=CC=C(O[Rb])C=C2)C,O=P1(C2=C(C3=C(O1)C=CC=C3)C=CC=C2)C(C=C4O[Rb])=C(C=C4)OC([Fr])=O,,95.4,,,,4.6,,,,,,,,,,447
+10.1002/(SICI)1099-0518(199812)36:17<3051::AID-POLA6>3.0.CO;2-A,homopolymer,,CPD/BACl,,[Fr]OCCOc1ccc(cc1P1(=O)Oc2ccccc2c2c1cccc2)OCCOC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,448
+10.1016/j.polymer.2021.123757,homopolymer,,Aromatic Polycarbonates_PC-5,,[Fr]NCCCCNC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(c2ccc(cc2)Oc2ccc(cc2)C(=O)[Rb])c2ccccc2c2c1cccc2,,,,100,,,,0,,,,,,,,,450
+10.1002/(SICI)1097-4628(19970214)63:7<875::AID-APP7>3.0.CO;2-N,homopolymer,,,,O=C1N(C(C2=CC(OC3=CC(C(N([Rb])C4=O)=O)=C4C=C3)=CC=C21)=O)C5=CC=C(C=C5O)C(C)(C6=CC(O)=C([Fr])C=C6)C,,,,100,,,,0,,,,,,,,,450
+10.1007/s00289-015-1488-z,homopolymer,,PPD/SPD,,[Fr]c1ccc(cc1)OCc1nnn(c1)c1ccc(cc1)Oc1ccc(cc1)Oc1ccc(cc1)n1nnc(c1)COc1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)c1ccc2c(c1)C(=O)N(C2=O)[Rb],,,,100,,,,0,,,,,,,,,452
+10.1007/s10118-015-1557-7,homopolymer,,polypropylene(PP),,[Rb]C1=CC=C(NC(NC(C2=CC=CC(C(NC(NC3CCC(N4C(C5=CC=C(OC6=CC=C7C(C(N([Fr])C7=O)=O)=C6)C=C5C4=O)=O)CC3)=S)=O)=N2)=O)=S)C=C1,,,,100,,,,0,,,,,,,,,455
+10.1016/j.polymer.2021.123757,homopolymer,,Aromatic Polycarbonates_PC-6,,[Fr]NCCCCCCNC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(c2ccc(cc2)Oc2ccc(cc2)C(=O)[Rb])c2ccccc2c2c1cccc2,,,,100,,,,0,,,,,,,,,458
+10.1007/s00289-015-1587-x,homopolymer,PA,aromatic polyamides 12,,[Fr]C(C1=CC(NC(C(N2C(C3=C(C(Br)=C(C(Br)=C3C2=O)Br)Br)=O)C)=O)=CC(C(NC4=CC(N[Rb])=CC=C4)=O)=C1)=O,,,,100,,,,0,,,,,,,,,459
+10.1007/s00289-015-1587-x,homopolymer,PA,PA8,,[Fr]Nc1cccc(c1)NC(=O)c1cc(cc(c1)C(=O)[Rb])NC(=O)C(N1C(=O)c2c(C1=O)c(Br)c(c(c2Br)Br)Br)C,,,,100,,,,0,,,,,,,,,459
+10.1007/s11696-020-01494-7,homopolymer,,phosphine oxide-aromatic polyethers_P5,,[Rb]c1ccc(cc1)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(cc1)N1C(=O)C2C(C1=O)c1c2ccc(c1)C(=O)c1ccc2c(c1)C1C2C(=O)N(C1=O)[Fr])(C)C,,,,100,,,,0,,,,,,,,,461
+10.1016/j.polymer.2021.123757,homopolymer,,phosphine oxide-aromatic polyethers_P3,,[Fr]NCCCCCCCCCCNC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(c2ccc(cc2)Oc2ccc(cc2)C(=O)[Rb])c2ccccc2c2c1cccc2,,,,100,,,,0,,,,,,,,,462
+10.1016/j.polymer.2021.123757,homopolymer,,phosphine oxide-aromatic polyethers_P2,,[Fr]NCCCCCCCCNC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(c2ccc(cc2)Oc2ccc(cc2)C(=O)[Rb])c2ccccc2c2c1cccc2,,,,100,,,,0,,,,,,,,,462
+10.1002/app.28552,homopolymer,,,,[Rb]C1=CC=C(C(C2=CC=C(P(C3=CC=C(C(C4=CC=C(OC5=CC=C(S(=O)(C6=CC=C(O[Fr])C=C6)=O)C=C5)C=C4)=O)C=C3)(C7=CC=CC=C7)=O)C=C2)=O)C=C1,,,,100,,,,0,,,,,,,,,463
+10.1007/s10965-021-02676-x,homopolymer,,PPD/BP,,[Fr]c1ccc(cc1)Oc1ccc(cc1)N1C(=O)C2C(C1=O)CC(CC2)C1CCC2C(C1)C(=O)N(C2=O)[Rb],,,,100,,,,0,,,,,,,,,464
+10.1002/pat.5153,homopolymer,,,,O=C1N(C2=CC=C(OC3=CC=C([Fr])C=C3)C=C2)C(C4C1CC(C5CC(C(N([Rb])C6=O)=O)C6CC5)CC4)=O,,,,100,,,,0,,,,,,,,,464
+10.1007/s10965-017-1184-9,homopolymer,,aramides3,,[Fr]C(C1=CC=C(C=C1)NC2=NC(N3CCOCC3)=NC(NC4=CC=C(C=C4)C(NC5=CC=C(N(C6=CC=C(OC)C=C6)C7=CC=C(N[Rb])C=C7)C=C5)=O)=N2)=O,,,,100,,,,0,,,,,,,,,465
+10.1007/s10965-017-1184-9,homopolymer,,polyamide-phosphate esters_POAD-APC_3,,COc1ccc(cc1)N(c1ccc(cc1)NC(=O)c1ccc(cc1)Nc1nc(Nc2ccc(cc2)C(=O)[Rb])nc(n1)N1CCOCC1)c1ccc(cc1)N[Fr],,,,100,,,,0,,,,,,,,,465
+10.1002/pat.5153,homopolymer,,,,[Rb]N1C(C2CC(C3CC2C1=O)C(N(C3=O)C4=CC=C(C=C4)OC5=CC(P(C6=CC=CC=C6)(C7=CC=CC=C7)=O)=C(C=C5)OC8=CC=C(C=C8)[Fr])=O)=O,,,,100,,,,0,,,,,,,,,465.1
+10.1007/s00289-015-1488-z,homopolymer,,O-PPD/BrBPA,,O=C(C(C1=C2)=CC(C3=O)=C2C(N3C(C=C4)=CC=C4OCC5=CN(N=N5)CCCN(N=N6)C=C6COC(C=C7)=CC=C7[*])=O)N([*])C1=O,,,,100,,,,0,,,,,,,,,467
+10.1007/s10118-015-1557-7,homopolymer,,Poly lactic acid(PLA),,S=C(NC(C1=CC=CC(C(NC(NC2=CC=C(C=C2)[*])=S)=O)=N1)=O)NC3=CC=C(C=C3)N4C(C5=C(C4=O)C=C6C(C(N(C6=O)[*])=O)=C5)=O,,,,100,,,,0,,,,,,,,,467
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,poly(acetal-urethane)s_PAU-MDI,,[Fr]Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1C(F)(F)F)P(=O)(c1ccc(c(c1)C(F)(F)F)[Rb])c1ccccc1)(C)C,,,,100,,,,0,,,,,,,,,470
+10.1039/C7RA10493F,homopolymer,,,,[Rb]C1=CC=CC(P(C)(C2=CC=CC(C3C(C(C=CC(OC4=CC=C(C(N([Fr])C5=O)=O)C5=C4)=C6)=C6C3=O)=O)=C2)=O)=C1,,,,100,,,,0,,,,,,,,,473
+10.1007/s00289-015-1488-z,homopolymer,,O-PPD/BPA,,O=C(C(C1=C2)=CC(C3=O)=C2C(N3C(C=C4)=CC=C4OCC5=CN(N=N5)C(C=C6)=CC=C6OC(C=C7)=CC=C7OC(C=C8)=CC=C8N(N=N9)C=C9COC(C=C%10)=CC=C%10[*])=O)N([*])C1=O,,,,100,,,,0,,,,,,,,,473
+10.1002/app.28552,homopolymer,,,,[Rb]C1=CC=C(C(C2=CC=C(P(C3=CC=C(C(C4=CC=C(OC5=CC=C(C(C)(C6=CC=C(O[Fr])C=C6)C)C=C5)C=C4)=O)C=C3)(C7=CC=CC=C7)=O)C=C2)=O)C=C1,,,,100,,,,0,,,,,,,,,475
+10.1007/s11696-020-01494-7,homopolymer,,phosphine oxide-aromatic polyethers_P7,,[Rb]c1ccc(cc1)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)N=C(c1ccc(cc1)N1C(=O)C2C(C1=O)c1c2ccc(c1)C(C(F)(F)F)(C(F)(F)F)c1ccc2c(c1)C1C2C(=O)N(C1=O)[Fr])O)(C)C,,,,100,,,,0,,,,,,,,,475
+Journal of the Mexican Chemical Society61.3 (2017): 229-240.,homopolymer,PA,PA4,,FC(F)(C1=CC=C(C2=NC(C3=CC=C(OC(C=CC([Fr])=C4)=C4C5=NC(C6=CC=CC=C6)=C(C7=CCCC=C7)N5)C=C3)=C(C8=CC=C(OC9=C(C%10=NC(C%11=CC=CC=C%11)=C(C%12=CCCC=C%12)N%10)C=C(N%13C(C%14C(C%15=C%14C=C(C(C(N%16[Rb])=O)C%17C%16=O)C%17=C%15)C%13=O)=O)C=C9)C=C8)N2)C=C1)F,,,,100,,,,0,,,,,,,,,475
+10.1002/app.28552,homopolymer,,,,[Rb]C1=CC=C(C(C2=CC=C(P(C3=CC=C(C(C4=CC=C(OC5=CC=C(O[Fr])C=C5)C=C4)=O)C=C3)(C6=CC=CC=C6)=O)C=C2)=O)C=C1,,,,100,,,,0,,,,,,,,,476
+10.1016/j.polymdegradstab.2023.110388,copolymer,PC,PC/NSD6,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C)C2=CC=C(O[Rb])C=C2,[Na]OOOSC1=CC2=C(C=C1O[Rb])C=C(OC([Fr])=O)C(SOOO[Na])=C2,,100,,,,6,,,,,,,,,,478
+10.1039/C7RA10493F,homopolymer,,,,[Rb]C1=CC=CC(P(C)(C2=CC=CC(C3C(C(C=CC(C(C4=CC=C(C(N([Fr])C5=O)=O)C5=C4)=O)=C6)=C6C3=O)=O)=C2)=O)=C1,,,,100,,,,0,,,,,,,,,479
+10.1016/j.cclet.2022.06.038,copolymer,polyesters,N-BPA,,O=C([Fr])C1=CC=C(O[Rb])C=C1,CC(C1=CC=C(C=C1)OC(C2=CC=C(C=C2)C([Fr])=O)=O)(C3=CC=C(C=C3)O[Rb])C,,,60,,,,20,,,,,,,,,479
+10.1016/j.cclet.2022.06.038,copolymer,polyesters,B-BPA,,O=C([Fr])C1=CC=C(O[Rb])C=C1,CC(C1=CC=C(C=C1)OC(C2=CC=C(C=C2)C([Fr])=O)=O)(C3=CC=C(C=C3)O[Rb])C,,,60,,,,20,,,,,,,,,479
+10.1016/j.polymdegradstab.2023.110388,copolymer,PC,PC/NSD4,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C)C2=CC=C(O[Rb])C=C2,[Na]OOOSC1=CC2=C(C=C1O[Rb])C=C(OC([Fr])=O)C(SOOO[Na])=C2,,100,,,,4,,,,,,,,,,479
+10.1016/j.polymdegradstab.2023.110388,copolymer,PC,PC/NSD2,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C)C2=CC=C(O[Rb])C=C2,[Na]OOOSC1=CC2=C(C=C1O[Rb])C=C(OC([Fr])=O)C(SOOO[Na])=C2,,100,,,,2,,,,,,,,,,480
+10.1016/j.polymdegradstab.2023.110388,copolymer,PC,PC,,CC(C1=CC=C(OC([Fr])=O)C=C1)(C)C2=CC=C(O[Rb])C=C2,[Na]OOOSC1=CC2=C(C=C1O[Rb])C=C(OC([Fr])=O)C(SOOO[Na])=C2,,100,,,,0,,,,,,,,,,482
+10.1021/acsapm.3c00444,homopolymer,PC,PC,,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OC([Fr])=O)C,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OC([Fr])=O)C,,,100,,,,0,,,,,,,,,482
+10.1039/C7RA10493F,homopolymer,,,,[Rb]C1=CC=CC(P(C)(C2=CC=CC(C3C(C(C=CC(C(C(F)(F)F)(C(F)(F)F)C4=CC=C(C(N([Fr])C5=O)=O)C5=C4)=C6)=C6C3=O)=O)=C2)=O)=C1,,,,100,,,,0,,,,,,,,,483
+10.1007/s10965-021-02676-x,homopolymer,,CPD/SPD,,[Fr]c1ccc(cc1)Oc1ccc(cc1)C1(Cc2c(C1=O)cccc2)c1ccc(cc1)Oc1ccc(cc1)N1C(=O)C2C(C1=O)CC1C(C2)C(=O)N(C1=O)[Rb],,,,100,,,,0,,,,,,,,,483.1
+10.1007/s10965-021-02676-x,homopolymer,,PPD/BPA,,[Fr]c1ccc(cc1)Oc1ccc(cc1)C1(Cc2c(C1=O)cccc2)c1ccc(cc1)Oc1ccc(cc1)N1C(=O)C2C(C1=O)CC(CC2)C1CCC2C(C1)C(=O)N(C2=O)[Rb],,,,100,,,,0,,,,,,,,,483.6
+10.1080/10601325.2018.1483201,homopolymer,,poly(pyridine thiourea-imide)s (PPTIs)-ODPA,,[Fr]Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)C1N=CC(S1)c1ccc(cc1)c1sc(c(c1c1ccccc1)c1ccccc1)c1ccc(cc1)C1C=NC(S1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb],,,,100,,,,0,,,,,,,,,485
+10.1039/C7RA10493F,homopolymer,,,,[Rb]C1=CC=CC(P(C)(C2=CC=CC(C3C(C(C=CC(OC4=CC=C(C(C)(C5=CC=C(OC6=CC=C(C(N([Fr])C7=O)=O)C7=C6)C=C5)C)C=C4)=C8)=C8C3=O)=O)=C2)=O)=C1,,,,100,,,,0,,,,,,,,,487
+10.1007/s11696-020-01494-7,homopolymer,,phosphine oxide-aromatic polyethers_P8,,[Rb]c1ccc(cc1)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(cc1)N1C(=O)C2C(C1=O)c1c3c2ccc2c3c(cc1)C1C2C(=O)N(C1=O)[Fr])(C)C,,,,100,,,,0,,,,,,,,,488
+10.1007/s10118-015-1557-7,homopolymer,,poly(methyl methacrylate)(PMMA),,[Rb]C1=CC=C(NC(NC(C2=CC=CC(C(NC(NC3=CC=C(N4C(C5=CC=C(C6=CC=C7C(C(N([Fr])C7=O)=O)=C6)C=C5C4=O)=O)C=C3)=S)=O)=N2)=O)=S)C=C1,,,,100,,,,0,,,,,,,,,490
+10.1080/10601325.2018.1483201,homopolymer,,poly(pyridine thiourea-imide)s (PPTIs)-PMDA,,[Fr]Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)C1N=CC(S1)c1ccc(cc1)c1sc(c(c1c1ccccc1)c1ccccc1)c1ccc(cc1)C1C=NC(S1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb],,,,100,,,,0,,,,,,,,,491
+10.1080/10601325.2018.1483201,homopolymer,,poly(diaminodiphenyl methane spirocyclic pentaerythritol bisphosphonate) (PDSPB),,[Fr]Nc1ccc(cc1)C(=O)c1ccc(cc1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)C1N=CC(S1)c1ccc(cc1)C1SC(C(C1c1ccccc1)c1ccccc1)c1ccc(cc1)C1C=NC(S1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb],,,,100,,,,0,,,,,,,,,493
+10.1002/pat.5153,homopolymer,,,,O=C1N(C2=CC=C(OC3=CC(P(C4=CC=CC=C4)(C5=CC=CC=C5)=O)=C(OC6=CC=C([Fr])C=C6)C=C3)C=C2)C(C7C1CC(C8CC(C(N([Rb])C9=O)=O)C9CC8)CC7)=O,,,,100,,,,0,,,,,,,,,493.8
+10.1007/s10965-017-1184-9,homopolymer,,MPDI,,[Fr]C(C1=CC=C(C=C1)NC2=NC(N3CCOCC3)=NC(NC4=CC=C(C=C4)C(NC5=CC=CC(N[Rb])=C5)=O)=N2)=O,,,,100,,,,0,,,,,,,,,496
+10.1007/s10965-017-1184-9,homopolymer,,polyamide-phosphate esters _PPAD-APC_7,,[Fr]Nc1cccc(c1)NC(=O)c1ccc(cc1)Nc1nc(Nc2ccc(cc2)C(=O)[Rb])nc(n1)N1CCOCC1,,,,100,,,,0,,,,,,,,,496
+10.1177/0954008320910807,homopolymer,,poly(amide-imide)sPAI_5f,,[Fr]Nc1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)NC(=O)c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,496
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,Polyetherketone(PEK),,COc1ccc(cc1)P(=O)(c1ccc(c(c1)C(F)(F)F)[Rb])c1ccc(c(c1)C(F)(F)F)Oc1ccc(cc1)c1ccc(cc1)O[Fr],,,,100,,,,0,,,,,,,,,497
+10.1080/10601325.2018.1483201,homopolymer,,poly(pyridine thiourea-imide)s (PPTIs)-6FDA,,[Fr]Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)NC(=O)c1ccc2c(c1)C(=O)N(C2=O)C1N=CC(S1)c1ccc(cc1)c1sc(c(c1c1ccccc1)c1ccccc1)c1ccc(cc1)C1C=NC(S1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb],,,,100,,,,0,,,,,,,,,499
+10.1177/0954008320910807,homopolymer,,poly(amide-imide)sPAI_5e,,[Fr]Nc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)NC(=O)c1ccc(cc1)Oc1ccc(cc1)Oc1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,500
+10.1007/s11696-020-01494-7,homopolymer,,phosphine oxide-aromatic polyethers_P4,,[Rb]c1ccc(cc1)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1ccc(cc1)N1C(=O)C2C(C1=O)c1c2cc2c(c1)C1C2C(=O)N(C1=O)[Fr])(C)C,,,,100,,,,0,,,,,,,,,502
+10.1080/10601325.2018.1483201,homopolymer,,polyphosphates-1,,O=C(c1ccc2c(c1)C(=O)N(C2=O)C1N=CC(S1)c1ccc(cc1)c1sc(c(c1c1ccccc1)c1ccccc1)c1ccc(cc1)C1C=NC(S1)N1C(=O)c2c(C1=O)cc(cc2)C(=O)[Rb])Nc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)[Fr],,,,100,,,,0,,,,,,,,,503
+10.1016/j.polymer.2021.123957,homopolymer,,,,O=C(C1=CC=C(C(N([Fr])C2=O)=O)C2=C1)C3=CC(C(N(C4=CC=C(C5=C(C)C=C(N6C(C7=CC(C(C8=CC(C(N([Rb])C9=O)=O)=C9C=C8)=O)=CC=C7C6=O)=O)C=C5)C(C)=C4)C%10=O)=O)=C%10C=C3,,,,100,,,,0,,,,,,,,,504.5
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,poly(acetal-urethane)s_PAU-0,,[Fr]Oc1ccc(cc1)c1ccc(cc1)Oc1ccc(cc1C(F)(F)F)P(=O)(c1ccc(c(c1)C(F)(F)F)[Rb])c1ccccc1,,,,100,,,,0,,,,,,,,,510
+10.1177/0954008311424804,homopolymer,,PPD/HPM,,[Rb]Nc1ccc(cc1)C1C(=O)c2c(C1=O)cc(cc2)C(=O)NC(=S)Nc1ccc(cc1)NC(=O)CCCCCCCCC(=O)[Fr],,,,100,,,,0,,,,,,,,,510
+10.1177/0954008320910807,homopolymer,,poly(amide-imide)s-L-isoleucine_8b,,[Fr]Nc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)NC(=O)c1ccc(cc1)Oc1ccc(cc1)C(C(F)(F)F)(C(F)(F)F)c1ccc(cc1)Oc1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,511
+10.1177/0954008311424804,homopolymer,,O-PPD/DHB,,[Rb]Nc1ccc(cc1)C1C(=O)c2c(C1=O)cc(cc2)C(=O)NC(=S)Nc1ccc(cc1)NC(=O)CCCCC(=O)[Fr],,,,100,,,,0,,,,,,,,,511
+10.1177/0954008320910807,homopolymer,,poly(amide-imide)sPAI_5a,,[Rb]Nc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)NC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,514
+10.1177/0954008311424804,homopolymer,,O-pPPDCl/HPM,,[Fr]Nc1ccc(cc1)C1C(=O)c2c(C1=O)ccc(c2)C(=O)NC(=S)Nc1ccc(cc1)NC(=O)c1cccc(c1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,520
+10.1177/0954008320910807,homopolymer,,BPA-Polyarylates,,[Rb]Nc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)NC(=O)c1ccc(cc1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,520
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,acrylated benzenephosphonates_APBP,,[Fr]Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)P(=O)(c1ccc(cc1)[Rb])c1ccccc1)(C)C,,,,100,,,,0,,,,,,,,,525
+10.1177/0954008320910807,homopolymer,,Aromatic polyamides_PA-4f,,[Rb]Nc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)NC(=O)c1cccc(c1)C(=O)[Fr],,,,100,,,,0,,,,,,,,,525
+10.1177/0954008311424804,homopolymer,,PPD/DHB,,[Fr]Nc1ccc(cc1)C1C(=O)c2c(C1=O)ccc(c2)C(=O)NC(=S)Nc1ccc(cc1)NC(=O)c1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,527
+10.1016/j.polymer.2021.123957,homopolymer,,,,O=C(C1=CC=C(C(N([Fr])C2=O)=O)C2=C1)C3=CC(C(N(C4=CC=C(S(C5=CC=C(N6C(C7=CC(C(C8=CC(C(N([Rb])C9=O)=O)=C9C=C8)=O)=CC=C7C6=O)=O)C=C5)(=O)=O)C=C4)C%10=O)=O)=C%10C=C3,,,,100,,,,0,,,,,,,,,527
+10.1016/j.polymer.2021.123957,homopolymer,,,,O=C(C1=CC=C(C(N([Fr])C2=O)=O)C2=C1)C3=CC(C(N(C4=CC=C(CC5=CC=C(N6C(C7=CC(C(C8=CC(C(N([Rb])C9=O)=O)=C9C=C8)=O)=CC=C7C6=O)=O)C=C5)C=C4)C%10=O)=O)=C%10C=C3,,,,100,,,,0,,,,,,,,,532
+10.1177/0954008319901148,homopolymer,,polyamides_FDA-IPC,,[Fr]Oc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)[Rb],,,,100,,,,0,,,,,,,,,536
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,[Fr]C1=NC2=CC(C(C(F)(F)F)(C(F)(F)F)C3=CC4=C(C=C3)OC(C5=CC=C(N6C(C7=CC([Rb])=CC=C7C6=O)=O)C=C5)=N4)=CC=C2O1,,,,100,,,,0,,,,,,,,,538
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,[Fr]C1=NC2=CC(C(C(F)(F)F)(C(F)(F)F)C3=CC4=C(C=C3)OC(C5=CC(N6C(C7=CC([Rb])=CC=C7C6=O)=O)=CC=C5)=N4)=CC=C2O1,,,,100,,,,0,,,,,,,,,540
+10.1177/0954008319901148,homopolymer,,polyamides_FDA-AC,,[Fr]Oc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)Oc1ccc(cc1)C(=O)c1cccc(c1)C(=O)c1ccc(cc1)[Rb],,,,100,,,,0,,,,,,,,,540
+10.1177/0954008312442425,homopolymer,,"poly 6,6′-(thio-2,2-diyl)bis(3-octadecyl-3,4-dihydro-2Hbenzo[e][1,3]oxazine)_PTBP-sa",,[Rb]Oc1ccc(c(c1)c1ccc(cc1)Br)Oc1ccc(cc1)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,541
+10.1177/0954008312442425,homopolymer,,Polypropylene_PP,,[Rb]Oc1ccc(c(c1)c1ccccc1)Oc1ccc(cc1)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,543
+10.1177/0954008319901148,homopolymer,,methacrylated phenolic melamine_MAPM,,[Fr]Oc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)[Rb],,,,100,,,,0,,,,,,,,,545
+10.1177/0954008312442425,homopolymer,,Polystyrene_PS,,[Rb]Oc1ccc(c(c1)c1ccccc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,548
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=C2C=CC(C3=NC4=C(O3)C=CC(C(C(F)(F)F)(C(F)(F)F)C5=CC=C6OC([Fr])=NC6=C5)=C4)=C1)N(C2=O)C7=CC(N8C(C9=CC([Rb])=CC=C9C8=O)=O)=CC=C7,,,,100,,,,0,,,,,,,,,549
+10.1002/(SICI)1097-4628(19970214)63:7<875::AID-APP7>3.0.CO;2-N,homopolymer,,,,O=C1N(C(C2=CC(OC3=CC(C(N([Rb])C4=O)=O)=C4C=C3)=CC=C21)=O)C5=CC=C(C=C5)C(C)(C6=CC=C(C(C)(C7=CC=C([Fr])C=C7)C)C=C6)C,,,,100,,,,0,,,,,,,,,550
+10.1016/j.polymer.2021.123957,homopolymer,,,,O=C(C1=CC=C(C(N([Fr])C2=O)=O)C2=C1)C3=CC(C(N(C4=CC=C(OC5=CC=C(N6C(C7=CC(C(C8=CC(C(N([Rb])C9=O)=O)=C9C=C8)=O)=CC=C7C6=O)=O)C=C5)C=C4)C%10=O)=O)=C%10C=C3,,,,100,,,,0,,,,,,,,,550.9
+10.1177/0954008312442425,homopolymer,,poly(ether-ester)s_(BPZ)@C6H6,,[Rb]Oc1ccc(c(c1)c1ccc(cc1)Br)Oc1ccc(cc1)C(=O)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,553
+10.1177/0954008319901148,homopolymer,,polyamides_FDA-SC,,[Fr]Oc1ccc(cc1)c1nc(cc(c1)c1ccc(cc1)P(c1ccccc1)c1ccccc1)c1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)c1ccc(cc1)C(=O)c1ccc(cc1)[Rb],,,,100,,,,0,,,,,,,,,554
+10.1007/s10118-017-1896-7,homopolymer,,poly(ether-ester)s_(BPPZ)@C6H6,,[Fr]Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1cc(ccc1C(=O)O)c1ccc(c(c1)C(=O)O)C(=O)[Rb],,,,100,,,,0,,,,,,,,,555
+10.1177/0954008312442425,homopolymer,,"poly 6,6′-(thio-2,2-diyl)bis(3-phenyl-3,4-dihydro-2H-benzo_PTBP-a",,[Rb]Oc1ccc(c(c1)c1ccc(cc1)F)Oc1ccc(cc1)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,560
+10.1002/(SICI)1097-4628(19970214)63:7<875::AID-APP7>3.0.CO;2-N,homopolymer,,,,O=C1N(C(C2=CC(OC3=CC(C(N([Rb])C4=O)=O)=C4C=C3P5(C6=CC=CC=C6)=O)=C5C=C21)=O)C7=CC=C(C=C7)C(C)(C8=CC=C(C(C)(C9=CC=C([Fr])C=C9)C)C=C8)C,,,,100,,,,0,,,,,,,,,560
+10.1177/0954008312442425,homopolymer,,poly(ether-ester)s_(BPZ)@(CH2)2,,[Rb]Oc1ccc(c(c1)c1ccc(cc1)F)Oc1ccc(cc1)C(=O)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,562
+10.1016/j.polymer.2021.123957,homopolymer,,,,O=C(C1=CC=C(C(N([Fr])C2=O)=O)C2=C1)C3=CC(C(N(C4=CC=C(N5C(C6=CC(C(C7=CC(C(N([Rb])C8=O)=O)=C8C=C7)=O)=CC=C6C5=O)=O)C=C4)C9=O)=O)=C9C=C3,,,,100,,,,0,,,,,,,,,564.5
+10.1016/j.polymdegradstab.2014.05.002,homopolymer,,6F-PAEPO,,[Fr]Oc1ccc(cc1)c1ccc(cc1)Oc1ccc(cc1)P(=O)(c1ccc(cc1)[Rb])c1ccccc1,,,,100,,,,0,,,,,,,,,566
+10.1177/0954008312442425,homopolymer,,"poly  6,6′-(thio-2,2-diyl)bis(3-methylfuran-3,4-dihydro-2Hbenzo[e][1,3]oxazine)_PTBP-fa",,[Rb]Oc1ccc(c(c1)c1ccc(cc1)Cl)Oc1ccc(cc1)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,571
+10.1177/0954008312442425,homopolymer,,poly(ether-ester)s_(BPZ)@(CH2)6,,[Rb]Oc1ccc(c(c1)c1ccc(cc1)Cl)Oc1ccc(cc1)C(=O)c1ccc(cc1)C(=O)c1ccc(cc1)[Fr],,,,100,,,,0,,,,,,,,,573
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=CC(C([Rb])=O)=CC=C12)N(C3=CC=C(C4=NC5=C(C=C(C6=CC(OC([Fr])=N7)=C7C=C6)C=C5)O4)C=C3)C2=O,,,,100,,,,0,,,,,,,,,589
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,[Fr]C1=NC(C=C2)=C(O1)C=C2C(C=C3)=CC4=C3N=C(O4)C5=CC(C(N(C6=CC(N7C(C8=CC(C([Rb])=O)=CC=C8C7=O)=O)=CC=C6)C9=O)=O)=C9C=C5,,,,100,,,,0,,,,,,,,,596
+10.5762/KAIS.2013.14.11.6029,homopolymer,,,,O=C(C1=CC(C([Rb])=O)=CC=C12)N(C3=CC=CC(C4=NC5=C(C=C(C6=CC(OC([Fr])=N7)=C7C=C6)C=C5)O4)=C3)C2=O,,,,100,,,,0,,,,,,,,,599
+10.1021/acsapm.3c00444,composite,PC,PC/SK0.1,,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OC([Fr])=O)C,,PC,99.9,,,,,,SK,[Fr]C(C1=CC(C(NC2=CC=C(C=C2N[Rb])S(=O)([O-])=O)=O)=CC=C1)=O.[K+],0.1,,,,,,474
+10.1021/acsapm.3c00444,composite,PC,PC/SK0.3,,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OC([Fr])=O)C,,PC,99.7,,,,,,SK,[Fr]C(C1=CC(C(NC2=CC=C(C=C2N[Rb])S(=O)([O-])=O)=O)=CC=C1)=O.[K+],0.3,,,,,,471
+10.1021/acsapm.3c00444,composite,PC,PC/SK0.5,,[Rb]OC1=CC=C(C=C1)C(C)(C2=CC=C(C=C2)OC([Fr])=O)C,,PC,99.5,,,,,,SK,[Fr]C(C1=CC(C(NC2=CC=C(C=C2N[Rb])S(=O)([O-])=O)=O)=CC=C1)=O.[K+],0.5,,,,,,470
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/APP20,,CC([Fr])C[Rb],,PP,80,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,20,,,,,,386
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/PEPAPC20,,CC([Fr])C[Rb],,PP,80,,,,,,,,,,PEPAPC,O=P1(OC2)OCC2(CO1)COC3=NC(N4CCN([*])CC4)=NC([*])=N3,20,,393
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/APP6.67/PEPAPC13.33,,CC([Fr])C[Rb],,PP,80,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,6.67,,PEPAPC,O=P1(OC2)OCC2(CO1)COC3=NC(N4CCN([*])CC4)=NC([*])=N3,13.33,,394
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/APP10/PEPAPC10,,CC([Fr])C[Rb],,PP,80,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,10,,PEPAPC,O=P1(OC2)OCC2(CO1)COC3=NC(N4CCN([*])CC4)=NC([*])=N3,10,,392
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/APP13.33/APP6.67,,CC([Fr])C[Rb],,PP,80,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,13.33,,PEPAPC,O=P1(OC2)OCC2(CO1)COC3=NC(N4CCN([*])CC4)=NC([*])=N3,6.67,,393
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/APP15/PEPAPC5,,CC([Fr])C[Rb],,PP,80,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,15,,PEPAPC,O=P1(OC2)OCC2(CO1)COC3=NC(N4CCN([*])CC4)=NC([*])=N3,5,,398
+10.1016/j.polymdegradstab.2017.09.011,composite,PP,PP/APP16/PEPAPC4,,CC([Fr])C[Rb],,PP,80,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,16,,PEPAPC,O=P1(OC2)OCC2(CO1)COC3=NC(N4CCN([*])CC4)=NC([*])=N3,4,,396
+10.1016/j.polymdegradstab.2016.10.003,composite,PP,PP/APP25,,CC([Fr])C[Rb],,PP,75,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,25,,,,,,401
+10.1016/j.polymdegradstab.2016.10.003,composite,PP,PP/APP18.75/TBMC6.25,,CC([Fr])C[Rb],,PP,75,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,18.75,,TBMC,C1(NCCN2CCN(C3=NC(NCCN4CCNCC4)=NC(NCCN5CCNCC5)=N3)CC2)=NC(NCCN6CCN(C7=NC(NCCN8CCNCC8)=NC(NCCN9CCNCC9)=N7)CC6)=NC(NCCN%10CCN(C%11=NC(NCCN%12CCNCC%12)=NC(NCCN%13CCNCC%13)=N%11)CC%10)=N1,6.25,,420
+10.1016/j.polymdegradstab.2016.10.003,composite,PP,PP/APP16.67/TBMC8.33,,CC([Fr])C[Rb],,PP,75,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,16.67,,TBMC,C1(NCCN2CCN(C3=NC(NCCN4CCNCC4)=NC(NCCN5CCNCC5)=N3)CC2)=NC(NCCN6CCN(C7=NC(NCCN8CCNCC8)=NC(NCCN9CCNCC9)=N7)CC6)=NC(NCCN%10CCN(C%11=NC(NCCN%12CCNCC%12)=NC(NCCN%13CCNCC%13)=N%11)CC%10)=N1,8.33,,424
+10.1016/j.polymdegradstab.2016.10.003,composite,PP,PP/APP12.5/TBMC12.5,,CC([Fr])C[Rb],,PP,75,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,12.5,,TBMC,C1(NCCN2CCN(C3=NC(NCCN4CCNCC4)=NC(NCCN5CCNCC5)=N3)CC2)=NC(NCCN6CCN(C7=NC(NCCN8CCNCC8)=NC(NCCN9CCNCC9)=N7)CC6)=NC(NCCN%10CCN(C%11=NC(NCCN%12CCNCC%12)=NC(NCCN%13CCNCC%13)=N%11)CC%10)=N1,12.5,,429
+10.1016/j.polymdegradstab.2016.10.003,composite,PP,PP/APP8.33/TBMC16.67,,CC([Fr])C[Rb],,PP,74.9,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,8.33,,TBMC,C1(NCCN2CCN(C3=NC(NCCN4CCNCC4)=NC(NCCN5CCNCC5)=N3)CC2)=NC(NCCN6CCN(C7=NC(NCCN8CCNCC8)=NC(NCCN9CCNCC9)=N7)CC6)=NC(NCCN%10CCN(C%11=NC(NCCN%12CCNCC%12)=NC(NCCN%13CCNCC%13)=N%11)CC%10)=N1,16.77,,429
+10.1016/j.compositesb.2019.107588,composite,PP,PP/APP20/CFA5,,CC([Fr])C[Rb],,PP,75,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,20,,CFA,[*]C1=NC(NCCN[*])=NC(NCCNO)=N1,5,,363
+10.1016/j.compositesb.2019.107588,composite,PP,PP/CFA25,,CC([Fr])C[Rb],,PP,75,,,,,,,,,,CFA,[*]C1=NC(NCCN[*])=NC(NCCNO)=N1,25,,319
+10.1016/j.polymdegradstab.2016.10.003,composite,PP,PP/TBMC25,,CC([Fr])C[Rb],,PP,75,,,,,,,,,,TBMC,C1(NCCN2CCN(C3=NC(NCCN4CCNCC4)=NC(NCCN5CCNCC5)=N3)CC2)=NC(NCCN6CCN(C7=NC(NCCN8CCNCC8)=NC(NCCN9CCNCC9)=N7)CC6)=NC(NCCN%10CCN(C%11=NC(NCCN%12CCNCC%12)=NC(NCCN%13CCNCC%13)=N%11)CC%10)=N1,25,,443
+10.1021/acs.iecr.5b02343,composite,PP,(0% APESP–30% APP)/PP,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,30,,,,,,373
+10.1021/acs.iecr.5b02343,composite,PP,(2% APESP–28% APP)/PP,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,28,,APESP,CCO[Si](CCCNP1(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=N1)(OCC)OCC,2,,367
+10.1021/acs.iecr.5b02343,composite,PP,(4% APESP–26% APP)/PP,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,26,,APESP,CCO[Si](CCCNP1(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=N1)(OCC)OCC,4,,360
+10.1021/acs.iecr.5b02343,composite,PP,(6% APESP–24% APP)/PP,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,24,,APESP,CCO[Si](CCCNP1(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=N1)(OCC)OCC,6,,354
+10.1021/acs.iecr.5b02343,composite,PP,(8% APESP–22% APP)/PP,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,22,,APESP,CCO[Si](CCCNP1(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=NP(NCCC[Si](OCC)(OCC)OCC)(NCCC[Si](OCC)(OCC)OCC)=N1)(OCC)OCC,8,,352
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/30APP,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,30,,,,,,394
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/24APP/6HCFA,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,24,,HCFA,C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1,6,,397
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/22.5APP/7.5HCFA,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,22.5,,HCFA,C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1,7.5,,417
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/20APP/10HCFA,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,20,,HCFA,C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1,10,,430
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/15APP/15HCFA,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,15,,HCFA,C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1,15,,428
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/10APP/20HCFA,,CC([Fr])C[Rb],,PP,70,,,,,,Ammonium polyphosphate,[*]P(O[*])([O-].[NH4+])=O,10,,HCFA,C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1,20,,397
+10.1016/j.polymdegradstab.2014.08.019,composite,PP,PP/30HCFA,,CC([Fr])C[Rb],,PP,70,,,,,,,,,,HCFA,C1(N2CCN(C3=NC(N4CCNCC4)=NC(N5CCNCC5)=N3)CC2)=NC(N6CCN(C7=NC(N8CCNCC8)=NC(N9CCNCC9)=N7)CC6)=NC(N%10CCN(C%11=NC(N%12CCNCC%12)=NC(N%13CCNCC%13)=N%11)CC%10)=N1,30,,443
